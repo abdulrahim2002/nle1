@@ -6,8 +6,11 @@ quantities in standard units (i.e. liters, grams, pieces)
 
 For example, we have:
 
-| abdul|rahim |
-|------|----- |
-| okay | laurez |
+| ingredient    | amount    |
+|------         | -----     |
+| paprika       | 1 stück   |
+| zucker        | 0.5 tl    |
+
+> tl = table spoon
 
 
