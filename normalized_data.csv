@@ -1,0 +1,911 @@
+,Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_unit
+0,0,zucchini,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zucchini""}",1.0,pieces
+1,1,paprika rot,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",2.0,pieces
+2,2,feta,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Feta""}",200.0,g
+3,3,schinken,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Schinken""}",250.0,g
+4,4,zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+5,5,passierte tomaten,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""passiert""}",300.0,g
+6,6,hähnchenbrust frisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""H\u00e4hnchenbrust"", ""eigenschaft"": ""frisch""}",500.0,g
+7,7,zwiebel frisch,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",120.0,g
+8,8,austernpilze,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Austernpilz""}",300.0,g
+9,9,schmand,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Schmand""}",0.25,l
+10,10,frischkäse,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""frisch""}",100.0,g
+11,11,öl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""\u00d6l""}",0.015,l
+12,12,butter,1 klecks,"{""anzahl"": 1, ""einheit"": ""klecks""}","{""zutat"": ""Butter"", ""eigenschaft"": ""klein""}",1.0,pieces
+13,13,tomatenmark dreifachkonzentriert,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Tomatenmark"", ""eigenschaft"": ""dreifachkonzentriert""}",0.015,l
+14,14,majoran getrocknet,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Majoran"", ""eigenschaft"": ""getrocknet""}",0.005,l
+15,15,bio hähnchenschlegel,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""H\u00e4hnchenschlegel"", ""eigenschaft"": ""bio""}",4.0,pieces
+16,16,hähnchen freilandhaltung,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""H\u00e4hnchen"", ""eigenschaft"": ""Freilandhaltung""}",2.0,pieces
+17,17,rapsöl,1 schuss,"{""volumen"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Schuss"", ""eigenschaft"": ""Raps\u00f6l""}",1.0,l
+18,18,zwiebeln grob geschnitten,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""geschnitten""}",2.0,pieces
+19,19,rosenkohl frisch,190 g,"{""gewicht"": 190, ""einheit"": ""g""}","{""zutat"": ""Rosenkohl"", ""eigenschaft"": ""frisch""}",190.0,g
+20,20,snackkarotten,80 g,"{""gewicht"": 80, ""einheit"": ""g""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""Snack-""}",80.0,g
+21,21,lauch längs halbiert undgeschnitten,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Lauch"", ""eigenschaft"": ""geschnitten""}",40.0,g
+22,22,weißwein trocken,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Wein"", ""eigenschaft"": ""trocken""}",0.1,l
+23,23,champignons,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Champignon""}",150.0,g
+24,24,sahne flüssig,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fl\u00fcssig""}",0.2,l
+25,25,butter,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Butter""}",0.005,l
+26,26,mehl,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Mehl""}",0.005,l
+27,27,frischkäse doppelrahmstufe,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""doppelrahmstufe""}",150.0,g
+28,28,milch,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Milch"", ""eigenschaft"": ""fl\u00fcssig""}",0.03,l
+29,29,zucker,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Zucker""}",0.015,l
+30,30,heidelbeeren frisch,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Heidelbeere"", ""eigenschaft"": ""frisch""}",1.0,pieces
+31,31,schokoriegel,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Schokoriegel""}",1.0,pieces
+32,32,amarettini mandelkeksezerstoßen,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Amarettini"", ""eigenschaft"": ""zersto\u00dfen""}",0.03,l
+33,33,deko schirmchen,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Schirmchen"", ""eigenschaft"": ""Deko""}",2.0,pieces
+34,34,möhren,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""M\u00f6hre""}",200.0,g
+35,35,kohlrabi frisch,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Kohlrabi"", ""eigenschaft"": ""frisch""}",150.0,g
+36,36,paprika rot,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",2.0,pieces
+37,37,staudensellerie,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Staudensellerie""}",150.0,g
+38,38,zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+39,39,tomatenmark dreifachkonzentriert,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Tomatenmark"", ""eigenschaft"": ""dreifachkonzentriert""}",0.005,l
+40,40,chilisoße  sambal oelek ,0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""Chiliso\u00dfe"", ""eigenschaft"": ""Sambal Oelek""}",0.0025,l
+41,41,frischkäse,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""frisch""}",200.0,g
+42,42,chicoree,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Chicoree""}",0.5,pieces
+43,43,feldsalat,g,"{""gewicht"": ""g"", ""einheit"": ""g""}","{""zutat"": ""Feldsalat""}",1.0,g
+44,44,frischkäse doppelrahmstufe,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""Doppelrahmstufe""}",150.0,g
+45,45,orange,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Orange"", ""eigenschaft"": ""orange""}",1.0,pieces
+46,46,orangenabrieb,1 teelöffel,"{""volumen"": ""1"", ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""orange""}",0.005,l
+47,47,orangensaft frisch gepresst,0.5 frucht,"{""anzahl"": 0.5, ""einheit"": ""frucht""}","{""zutat"": ""Orangensaft"", ""eigenschaft"": ""gepresst""}",0.5,pieces
+48,48,zucker,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Zucker""}",0.005,l
+49,49,spargel konserve,1 glas,"{""volumen"": 1, ""einheit"": ""glas""}","{""zutat"": ""Spargel"", ""eigenschaft"": ""konserviert""}",0.2,l
+50,50,ei hart gekocht,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Ei"", ""eigenschaft"": ""gekocht""}",2.0,pieces
+51,51,radieschen frisch,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Radieschen"", ""eigenschaft"": ""frisch""}",3.0,pieces
+52,52,datteltomaten,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Datteltomate"", ""eigenschaft"": ""ganz""}",4.0,pieces
+53,53,camembert doppelrahmstufe,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Camembert"", ""eigenschaft"": ""doppelrahm""}",1.0,pieces
+54,54,edamer,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Edamer"", ""eigenschaft"": ""40 g""}",40.0,g
+55,55,weinessig,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig"", ""eigenschaft"": ""wei\u00df""}",0.015,l
+56,56,rapsöl,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.03,l
+57,57,senf grob mittelscharf,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Senf"", ""eigenschaft"": ""mittelscharf""}",0.005,l
+58,58,sonnenblumenkern,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Sonnenblumenkern""}",0.015,l
+59,59,blumenkohl frisch,0.5 kopf,"{""anzahl"": 0.5, ""einheit"": ""kopf""}","{""zutat"": ""Blumenkohl"", ""eigenschaft"": ""frisch""}",0.5,pieces
+60,60,kartoffel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Kartoffel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+61,61,karotte,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte""}",0.5,pieces
+62,62,lauch längs halbiert undgeschnitten,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Lauch"", ""eigenschaft"": ""geschnitten""}",60.0,g
+63,63,zwiebel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+64,64,wasser,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""liter""}",1.0,l
+65,65,riesling trocken,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Riesling"", ""eigenschaft"": ""trocken""}",0.1,l
+66,66,muskatnuss frisch gerieben,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Muskatnuss"", ""eigenschaft"": ""gerieben""}",0.0005,l
+67,67,liebstöckel frischgeschnitten,6 blatt,"{""anzahl"": 6, ""einheit"": ""blatt""}","{""zutat"": ""Liebst\u00f6ckel"", ""eigenschaft"": ""frischgeschnitten""}",6.0,pieces
+68,68,zwiebel  gewürfelt,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+69,69,basilikum,6 blatt,"{""anzahl"": 6, ""einheit"": ""blatt""}","{""zutat"": ""Basilikum"", ""eigenschaft"": ""blatt""}",6.0,pieces
+70,70,crema di balsamico  rot,1 spritzer,"{""anzahl"": 1, ""einheit"": ""spritzer""}","{""zutat"": ""Creme"", ""eigenschaft"": ""rot""}",1.0,pieces
+71,71,tomatenpüree,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Tomatenp\u00fcree""}",0.005,l
+72,72,zitronensaft,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Zitronensaft""}",0.005,l
+73,73,rüböl  rapsöl ,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""R\u00fcb\u00f6l""}",0.005,l
+74,74,bier,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Bier""}",0.015,l
+75,75,sonnenblumenkerne geröstet,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Sonnenblumenkern"", ""eigenschaft"": ""ger\u00f6stet""}",0.015,l
+76,76,pfeffer aus der mühle,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""aus der M\u00fchle""}",0.0005,l
+77,77,salz aus der mühle,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""aus der M\u00fchle""}",0.0005,l
+78,78,spaghetti,170 g,"{""gewicht"": 170, ""einheit"": ""g""}","{""zutat"": ""Spaghetti""}",170.0,g
+79,79,wasser gesalzen,1 ½ liter,"{""volumen"": ""1 \u00bd"", ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""gesalzen""}",1.5,l
+80,80,margarine,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Margarine""}",1.0,pieces
+81,81,zwiebel gewürfelt,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",2.0,pieces
+82,82,champignons braun,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Champignon"", ""eigenschaft"": ""braun""}",3.0,pieces
+83,83,wasser,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",0.2,l
+84,84,zucchini geraspelt,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Zucchini"", ""eigenschaft"": ""geraspelt""}",150.0,g
+85,85,karotte geraspelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""geraspelt""}",0.5,pieces
+86,86,schnittlauch frisch gehackt,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Schnittlauch"", ""eigenschaft"": ""gehackt""}",0.03,l
+87,87,walnuss frischkäse,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Walnuss"", ""eigenschaft"": ""frisch""}",40.0,g
+88,88,pistazien,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Pistazie""}",40.0,g
+89,89,mehl,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Mehl""}",0.005,l
+90,90,wasser,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",0.1,l
+91,91,endivien frisch,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Endivie"", ""eigenschaft"": ""frisch""}",0.5,pieces
+92,92,zwiebel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+93,93,salz grob,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.0005,l
+94,94,knoblauch gehackt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Knoblauch"", ""eigenschaft"": ""gehackt""}",1.0,pieces
+95,95,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+96,96,senf grob mittelscharf,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Senf"", ""eigenschaft"": ""mittelscharf""}",0.005,l
+97,97,weinessig,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig"", ""eigenschaft"": ""wei\u00df""}",0.03,l
+98,98,rapsöl,3 esslöffel,"{""anzahl"": 3, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.045,l
+99,99,parmesan gerieben,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Parmesan"", ""eigenschaft"": ""gerieben""}",0.03,l
+100,100,möhren,900 g,"{""gewicht"": 900, ""einheit"": ""g""}","{""zutat"": ""M\u00f6hre""}",900.0,g
+101,101,zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+102,102,bohnen grün frisch,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Bohne"", ""eigenschaft"": ""frisch""}",400.0,g
+103,103,schinkenwürfel,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Schinkenw\u00fcrfel""}",250.0,g
+104,104,paprikaschoten frisch,3,"{""anzahl"": 3, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprikaschote"", ""eigenschaft"": ""frisch""}",3.0,pieces
+105,105,zucchini frisch,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Zucchini"", ""eigenschaft"": ""frisch""}",100.0,g
+106,106,sellerie frisch,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Sellerie"", ""eigenschaft"": ""frisch""}",0.5,pieces
+107,107,karotten,7 stk.,"{""anzahl"": 7, ""einheit"": ""stk.""}","{""zutat"": ""Karotte""}",7.0,pieces
+108,108,zitronensaft,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Zitronensaft""}",0.03,l
+109,109,zucker,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker""}",0.015,l
+110,110,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+111,111,essig,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig""}",0.015,l
+112,112,pfeffer aus der mühle weiß,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""wei\u00df""}",0.0005,l
+113,113,rapsöl,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.03,l
+114,114,joghurt   fett,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Joghurt"", ""eigenschaft"": ""fett""}",50.0,g
+115,115,schmand,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Schmand"", ""eigenschaft"": ""rahmig""}",50.0,g
+116,116,apfel elstar,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Apfel"", ""eigenschaft"": ""Elstar""}",1.0,pieces
+117,117,langkornreis mit wildreis,1 tasse,"{""volumen"": 1, ""einheit"": ""tasse""}","{""zutat"": ""Reis"", ""eigenschaft"": ""langk\u00f6rnig""}",0.25,l
+118,118,zucchini,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Zucchini""}",150.0,g
+119,119,tomate frisch,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",1.0,pieces
+120,120,frühlingszwiebeln frisch,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""frisch""}",2.0,pieces
+121,121,garnelen aus nachhaltigerfischerei,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Garnele"", ""eigenschaft"": ""aus nachhaltiger Fischerei""}",250.0,g
+122,122,kabeljaufilet ausnachhaltiger fischerei,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Kabeljaufilet"", ""eigenschaft"": ""aus nachhaltiger Fischerei""}",120.0,g
+123,123,rapsöl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.015,l
+124,124,sesamöl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Sesam\u00f6l""}",0.015,l
+125,125,sojasoße dunkel,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Sojasauce"", ""eigenschaft"": ""dunkel""}",0.015,l
+126,126,zitronensaft,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Zitronensaft""}",0.015,l
+127,127,asiatische fischsoße,1 el,"{""volumen"": ""1"", ""einheit"": ""el""}","{""zutat"": ""Fischso\u00dfe"", ""eigenschaft"": ""asiatisch""}",0.015,l
+128,128,nudeln  hier tagliatelle war rest aus der packung,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Nudel"", ""eigenschaft"": ""ausgepackt""}",100.0,g
+129,129,butterschmalz,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Butterschmalz""}",0.015,l
+130,130,paprika gelb,0.5 stück,"{""anzahl"": 0.5, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""gelb""}",0.5,pieces
+131,131,paprika rot,0.5 stück,"{""anzahl"": 0.5, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",0.5,pieces
+132,132,bacon-scheiben,4 stück,"{""anzahl"": 4, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bacon"", ""eigenschaft"": ""geschnitten""}",4.0,pieces
+133,133,gorgonzola,80 g,"{""gewicht"": 80, ""einheit"": ""g""}","{""zutat"": ""Gorgonzola""}",80.0,g
+134,134,st  agur,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Gurke"", ""eigenschaft"": ""stark""}",50.0,g
+135,135,frühlingszwiebel,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""fr\u00fch""}",2.0,pieces
+136,136,möhren,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""M\u00f6hre""}",400.0,g
+137,137,paprika rot,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",500.0,g
+138,138,kohlrabi frisch,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Kohlrabi"", ""eigenschaft"": ""frisch""}",300.0,g
+139,139,staudensellerie,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Staudensellerie""}",1.0,pieces
+140,140,wasser,0.75 liter,"{""volumen"": 0.75, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""kalt""}",0.75,l
+141,141,chilisoße  sambal oelek ,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Chilisauce"", ""eigenschaft"": ""Sambal Oelek""}",0.005,l
+142,142,brunch,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Becher"", ""eigenschaft"": ""Brunch""}",0.25,l
+143,143,hackfleisch gemischt,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Hackfleisch"", ""eigenschaft"": ""gemischt""}",500.0,g
+144,144,brötchen alt  in milcheingeweicht,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Br\u00f6tchen"", ""eigenschaft"": ""eingeweicht""}",1.0,pieces
+145,145,zwiebel fein gewürfelt,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+146,146,knoblauchzehe zerdrückt,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Knoblauchzehe"", ""eigenschaft"": ""zerdr\u00fcckt""}",2.0,pieces
+147,147,ei,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""ganz""}",1.0,pieces
+148,148,bratwurst grob,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bratwurst"", ""eigenschaft"": ""grob""}",1.0,pieces
+149,149,camembert,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Camembert""}",1.0,pieces
+150,150,paprikaschote frisch,0.5 stück,"{""anzahl"": 0.5, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Paprikaschote"", ""eigenschaft"": ""frisch""}",0.5,pieces
+151,151,frühstücksspeck,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Speck"", ""eigenschaft"": ""fr\u00fchst\u00fccksspeck""}",100.0,g
+152,152,gehacktes,1000 g,"{""gewicht"": 1000, ""einheit"": ""g""}","{""zutat"": ""Hack"", ""eigenschaft"": ""gehackt""}",1000.0,g
+153,153,spinat,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Spinat""}",500.0,g
+154,154,sahne,150 ml,"{""volumen"": 150, ""einheit"": ""ml""}","{""zutat"": ""Sahne""}",0.15,l
+155,155,reibekäse,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Reibek\u00e4se""}",50.0,g
+156,156,zwiebel gehackt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gehackt""}",1.0,pieces
+157,157,paprika,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Paprika""}",1.0,pieces
+158,158,bauerngurken,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bauergurke"", ""eigenschaft"": ""St\u00fcck""}",2.0,pieces
+159,159,tomaten frisch,4 stück,"{""anzahl"": 4, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",4.0,pieces
+160,160,apfelessig,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Essig"", ""eigenschaft"": ""Apfel""}",0.015,l
+161,161,olivenöl extra vergine,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""extra vergine""}",0.015,l
+162,162,blätterteig rolle,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Bl\u00e4tterteig"", ""eigenschaft"": ""gerollt""}",300.0,g
+163,163,zwiebel frisch,1 kg,"{""gewicht"": 1, ""einheit"": ""kg""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1000.0,g
+164,164,katenschinken feingewürfelt,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Schinken"", ""eigenschaft"": ""fein gew\u00fcrfelt""}",150.0,g
+165,165,butterschmalz,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Butterschmalz""}",0.03,l
+166,166,schmand,2 becher,"{""anzahl"": 2, ""einheit"": ""becher""}","{""zutat"": ""Schmand""}",0.5,l
+167,167,saure sahne     fett,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fett""}",0.25,l
+168,168,eier,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""St\u00fcck""}",2.0,pieces
+169,169,speisestärke,2 el (gestrichen),"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Speisest\u00e4rke"", ""eigenschaft"": ""gestrichen""}",0.03,l
+170,170,milch,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Milch"", ""eigenschaft"": ""fl\u00fcssig""}",0.1,l
+171,171,karotten in scheibengeschnitten,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""in Scheiben geschnitten""}",4.0,pieces
+172,172,wasser gesalzen,0.5 liter,"{""volumen"": 0.5, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""gesalzen""}",0.5,l
+173,173,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+174,174,zucchini,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Zucchini""}",3.0,pieces
+175,175,zwiebel rot,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""rot""}",1.0,pieces
+176,176,wasser gesalzen,0.5 liter,"{""volumen"": 0.5, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""gesalzen""}",0.5,l
+177,177,garnelen frisch groß,2 päckchen,"{""anzahl"": 2, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Garnele"", ""eigenschaft"": ""gro\u00df""}",2.0,pieces
+178,178,brötchen-weizenbrötchen,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Br\u00f6tchen"", ""eigenschaft"": ""Weizen""}",2.0,pieces
+179,179,zwiebel frisch,70 g,"{""gewicht"": 70, ""einheit"": ""g""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",70.0,g
+180,180,essiggurken,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Essiggurke""}",1.0,pieces
+181,181,bratwurstbrät,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Bratwurstbr\u00e4t""}",200.0,g
+182,182,ei,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei""}",1.0,pieces
+183,183,saure sahne     fett,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fett""}",0.03,l
+184,184,gouda mittelalt     scheibenohne rinde,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Gouda"", ""eigenschaft"": ""ohne Rinde""}",60.0,g
+185,185,tomaten frisch,4 stück,"{""anzahl"": 4, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",4.0,pieces
+186,186,couscous,80 g,"{""gewicht"": 80, ""einheit"": ""g""}","{""zutat"": ""Couscous""}",80.0,g
+187,187,feta gewürfelt,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Feta"", ""eigenschaft"": ""gew\u00fcrfelt""}",60.0,g
+188,188,gemüsebrühe,120 ml,"{""volumen"": 120, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche""}",0.12,l
+189,189,emmentaler,2 scheibe,"{""anzahl"": 2, ""einheit"": ""Scheibe""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Emmentaler""}",2.0,pieces
+190,190,gurke frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Gurke"", ""eigenschaft"": ""frisch""}",1.0,pieces
+191,191,thunfisch salat mexikana,2 dosen,"{""anzahl"": 2, ""einheit"": ""dosen""}","{""zutat"": ""Dose"", ""eigenschaft"": ""mexikanisch""}",2.0,pieces
+192,192,blattspinat frisch,2 tasse,"{""anzahl"": 2, ""einheit"": ""tasse""}","{""zutat"": ""Spinat"", ""eigenschaft"": ""frisch""}",0.5,l
+193,193,ei gekocht,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck"", ""zutat"": ""ei""}","{""zutat"": ""Ei"", ""eigenschaft"": ""gekocht""}",1.0,pieces
+194,194,katenschinken feingewürfelt oderschinkenspeck,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Schinken"", ""eigenschaft"": ""feingew\u00fcrfelt""}",60.0,g
+195,195,rapsöl,0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.0025,l
+196,196,olivenöl extra vergine,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""extra vergine""}",0.045,l
+197,197,balsamico bianco,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Essig"", ""eigenschaft"": ""wei\u00df""}",0.03,l
+198,198,senf mittelscharf,0.25 tl,"{""anzahl"": 0.25, ""einheit"": ""tl""}","{""zutat"": ""Senf"", ""eigenschaft"": ""mittelscharf""}",0.00125,l
+199,199,zucker,0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""Zucker""}",0.0025,l
+200,200,langkornreis,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Reis"", ""eigenschaft"": ""langk\u00f6rnig""}",50.0,g
+201,201,gemüsebrühe,125 ml,"{""volumen"": 125, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche""}",0.125,l
+202,202,karotte gelb,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gelb""}",30.0,g
+203,203,frühlingszwiebel - dasgrüne,20 g,"{""gewicht"": 20, ""einheit"": ""g""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""fr\u00fch""}",20.0,g
+204,204,knoblauchzehe geschält,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Knoblauchzehe"", ""eigenschaft"": ""gesch\u00e4lt""}",1.0,pieces
+205,205,rapsöl,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.005,l
+206,206,paprikaschote rot - sehrgroß  ca    g,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Paprikaschote"", ""eigenschaft"": ""sehr gro\u00df""}",1.0,pieces
+207,207,gemüsebrühe,120 ml,"{""volumen"": 120, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche"", ""eigenschaft"": ""gem\u00fcse""}",0.12,l
+208,208,sahne,50 ml,"{""volumen"": 50, ""einheit"": ""ml""}","{""zutat"": ""Sahne""}",0.05,l
+209,209,speisestärke,5 g,"{""gewicht"": 5, ""einheit"": ""g""}","{""zutat"": ""Speisest\u00e4rke""}",5.0,g
+210,210,tomaten frisch,3 stück,"{""anzahl"": 3, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",3.0,pieces
+211,211,schmand,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Schmand""}",0.03,l
+212,212,sahnemeerrettich,5 tl,"{""anzahl"": 5, ""einheit"": ""tl""}","{""zutat"": ""Meerrettich"", ""eigenschaft"": ""sahnig""}",0.025,l
+213,213,zitronensaft frisch gepresst,1 ½ el,"{""volumen"": ""1 \u00bd"", ""einheit"": ""el""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""gepresst""}",0.0225,l
+214,214,hackfleisch gemischt,380 g,"{""gewicht"": 380, ""einheit"": ""g""}","{""zutat"": ""Hackfleisch"", ""eigenschaft"": ""gemischt""}",380.0,g
+215,215,ei größe l,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""gro\u00df""}",1.0,pieces
+216,216,magerquark im siebabgetropft,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Quark"", ""eigenschaft"": ""abgetropft""}",50.0,g
+217,217,roher schinken,4 scheibe,"{""anzahl"": 4, ""einheit"": ""Scheibe""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""roh""}",4.0,pieces
+218,218,essiggurken,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Essiggurke"", ""eigenschaft"": ""saure""}",2.0,pieces
+219,219,rapsöl zum braten,5 el,"{""volumen"": 5, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.075,l
+220,220,zwiebel frisch gewürfelt,1 ½ stück,"{""anzahl"": 1.5, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.5,pieces
+221,221,senf,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Senf""}",0.01,l
+222,222,rinderfond,5 el,"{""volumen"": 5, ""einheit"": ""el""}","{""zutat"": ""Rinderfond""}",0.075,l
+223,223,sauerrahm,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Sauerrahm""}",0.015,l
+224,224,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+225,225,rucola,125 g,"{""gewicht"": 125, ""einheit"": ""g""}","{""zutat"": ""Rucola""}",125.0,g
+226,226,olivenöl,50 ml,"{""volumen"": 50, ""einheit"": ""ml""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""oliven""}",0.05,l
+227,227,pinienkerne,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Pinienkern"", ""eigenschaft"": ""50 g""}",50.0,g
+228,228,kräuter der provence,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Kr\u00e4uter"", ""eigenschaft"": ""aus Provence""}",0.005,l
+229,229,parmesan frisch gerieben,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Parmesan"", ""eigenschaft"": ""gerieben""}",50.0,g
+230,230,gurkenessig,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""Essig"", ""eigenschaft"": ""Gurken""}",0.06,l
+231,231,traubenzucker,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Traubenzucker""}",0.015,l
+232,232,rapsöl,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.06,l
+233,233,kräuter der provence,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Kr\u00e4uter"", ""eigenschaft"": ""provenzalisch""}",0.005,l
+234,234,salatgurke,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Salatgurke""}",1.0,pieces
+235,235,zucker,2 el (gestrichen),"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""gestrichen""}",0.03,l
+236,236,wasser,250 ml,"{""volumen"": 250, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",0.25,l
+237,237,branntweinessig,6 el,"{""volumen"": 6, ""einheit"": ""el""}","{""zutat"": ""Essig"", ""eigenschaft"": ""Branntwein-""}",0.09,l
+238,238,salz und pfeffer,etwas,"{""anzahl"": ""etwas"", ""einheit"": ""Prise"", ""typ"": ""salz""}","{""zutat"": ""Salz""}",0.0005,l
+239,239,blumenkohl frisch,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Blumenkohl"", ""eigenschaft"": ""frisch""}",1.0,pieces
+240,240,mehl,4 el,"{""anzahl"": 4, ""einheit"": ""el""}","{""zutat"": ""Mehl""}",0.06,l
+241,241,eier,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""frisch""}",2.0,pieces
+242,242,bier hell,50 ml,"{""volumen"": 50, ""einheit"": ""ml""}","{""zutat"": ""Bier"", ""eigenschaft"": ""hell""}",0.05,l
+243,243,quark,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Quark""}",200.0,g
+244,244,vanillezucker,15 g,"{""gewicht"": 15, ""einheit"": ""g""}","{""zutat"": ""Vanillezucker""}",15.0,g
+245,245,sahne oder milch,80 ml,"{""volumen"": 80, ""einheit"": ""ml""}","{""zutat"": ""Sahne""}",0.08,l
+246,246,sehr große erdbeeren,4 stück,"{""anzahl"": 4, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Erdbeere"", ""eigenschaft"": ""gro\u00df""}",4.0,pieces
+247,247,bisquits rund,6 stück,"{""anzahl"": 6, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bisquit"", ""eigenschaft"": ""rund""}",6.0,pieces
+248,248,zucchini,80 g,"{""gewicht"": 80, ""einheit"": ""g""}","{""zutat"": ""Zucchini""}",80.0,g
+249,249,preiselbeeren aus dem glas,45 g,"{""gewicht"": 45, ""einheit"": ""g""}","{""zutat"": ""Preiselbeere"", ""eigenschaft"": ""aus dem Glas""}",45.0,g
+250,250,wasser,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Wasser""}",0.015,l
+251,251,olivenöl,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""oliven""}",0.005,l
+252,252,camembert,35 g,"{""gewicht"": 35, ""einheit"": ""g""}","{""zutat"": ""Camembert""}",35.0,g
+253,253,schnittlauch,2 lange stengel,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""St\u00e4ngel"", ""eigenschaft"": ""lang""}",2.0,pieces
+254,254,baby spinat,70 g,"{""gewicht"": 70, ""einheit"": ""g""}","{""zutat"": ""Spinat"", ""eigenschaft"": ""baby""}",70.0,g
+255,255,frühlingszwiebel frisch geschnitten,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""geschnitten""}",2.0,pieces
+256,256,spargelstangen weiß,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spargelstange"", ""eigenschaft"": ""wei\u00df""}",2.0,pieces
+257,257,zitronensaft,1 schuss,"{""volumen"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""Schuss""}",1.0,l
+258,258,zwiebel gewürfelt,0.75 stk.,"{""anzahl"": 0.75, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.75,pieces
+259,259,speck durchwachsen,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Speck"", ""eigenschaft"": ""durchwachsen""}",30.0,g
+260,260,putengeschnetzeltes,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Geschnetzeltes"", ""eigenschaft"": ""Puten-""}",200.0,g
+261,261,radieschen,5 stk.,"{""anzahl"": 5, ""einheit"": ""stk.""}","{""zutat"": ""Radieschen""}",5.0,pieces
+262,262,senf,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Senf""}",0.005,l
+263,263,zwiebel gewürfelt,0.25 stk.,"{""anzahl"": 0.25, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.25,pieces
+264,264,salz und pfeffer,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.0005,l
+265,265,essig,1 bestecklöffel,"{""volumen"": 1, ""einheit"": ""besteckl\u00f6ffel""}","{""zutat"": ""Essig""}",1.0,l
+266,266,rapsöl,2 bestecklöffel,"{""anzahl"": 2, ""einheit"": ""besteckl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",2.0,pieces
+267,267,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+268,268,himbeeren frisch,0.5 päckchen,"{""anzahl"": 0.5, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Himbeere"", ""eigenschaft"": ""frisch""}",0.5,pieces
+269,269,tatar frisch,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Tatar"", ""eigenschaft"": ""frisch""}",300.0,g
+270,270,taco-gewürzmischung,2 tl,"{""anzahl"": 2, ""einheit"": ""tl""}","{""zutat"": ""Gew\u00fcrzmischung"", ""eigenschaft"": ""Taco""}",0.01,l
+271,271,rapsöl,4 tl,"{""volumen"": 4, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.02,l
+272,272,tomaten passiert,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""passiert""}",200.0,g
+273,273,maiskörner aus der dose,4 el,"{""anzahl"": 4, ""einheit"": ""el""}","{""zutat"": ""Maisk\u00f6rner"", ""eigenschaft"": ""aus der Dose""}",0.06,l
+274,274,kidney-bohnen konserve,4 el,"{""anzahl"": 4, ""einheit"": ""el""}","{""zutat"": ""Bohne"", ""eigenschaft"": ""Kidney""}",0.06,l
+275,275,eisbergsalat,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Eisbergsalat""}",150.0,g
+276,276,tomaten frisch,4,"{""anzahl"": 4, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",4.0,pieces
+277,277,käse gerieben,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""gerieben""}",0.06,l
+278,278,saure sahne     fett,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fett""}",0.03,l
+279,279,salsa-sauce,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""Salsa-Sauce""}",0.06,l
+280,280,naturjoghurt,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Joghurt"", ""eigenschaft"": ""natur""}",500.0,g
+281,281,magerquark,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Quark"", ""eigenschaft"": ""mager""}",250.0,g
+282,282,äpfel,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Apfel""}",2.0,pieces
+283,283,walnüsse gehackt,5 el,"{""volumen"": 5, ""einheit"": ""el""}","{""zutat"": ""Walnuss"", ""eigenschaft"": ""gehackt""}",0.075,l
+284,284,rettich frisch  mild,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Rettich"", ""eigenschaft"": ""mild""}",500.0,g
+285,285,paprika rot,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",1.0,pieces
+286,286,apfel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Apfel""}",1.0,pieces
+287,287,lauch,1 stange,"{""anzahl"": 1, ""einheit"": ""stange""}","{""zutat"": ""Lauch"", ""eigenschaft"": ""Stange""}",1.0,pieces
+288,288,kürbiskerne,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Kern"", ""eigenschaft"": ""K\u00fcrbis""}",0.03,l
+289,289,rapsöl,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.01,l
+290,290,putenbrust geräuchertaufschnitt,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Putenbrust"", ""eigenschaft"": ""ger\u00e4uchert""}",300.0,g
+291,291,eiweißbrot,2 scheiben,"{""anzahl"": 2, ""einheit"": ""scheiben""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Eiwei\u00df""}",2.0,pieces
+292,292,hühnerbrüste à   g,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""H\u00fchnerbrust""}",2.0,pieces
+293,293,rapsöl,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.03,l
+294,294,orange,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Orange""}",1.0,pieces
+295,295,zitrone,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zitrone""}",1.0,pieces
+296,296,staudensellerie,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Staudensellerie""}",300.0,g
+297,297,zwiebel rot,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""rot""}",1.0,pieces
+298,298,minze frisch,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Minze"", ""eigenschaft"": ""frisch""}",0.03,l
+299,299,basilikum,0.5 bund,"{""anzahl"": 0.5, ""einheit"": ""bund""}","{""zutat"": ""Basilikum""}",0.5,pieces
+300,300,schafskäse,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Schafk\u00e4se""}",200.0,g
+301,301,zucchini frisch,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zucchini"", ""eigenschaft"": ""frisch""}",0.5,pieces
+302,302,karotte,90 g,"{""gewicht"": 90, ""einheit"": ""g""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""neunzig""}",90.0,g
+303,303,frühlingszwiebel frisch geschnitten,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""geschnitten""}",3.0,pieces
+304,304,zwiebel rot  gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+305,305,putenbrust,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Putenbrust""}",200.0,g
+306,306,tomatenmark dreifachkonzentriert,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Tomatenmark"", ""eigenschaft"": ""dreifachkonzentriert""}",0.015,l
+307,307,ebly,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Ebly""}",120.0,g
+308,308,rapsöl,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Raps\u00f6l""}",0.015,l
+309,309,sojasoße dunkel,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""dunkel""}",1.0,l
+310,310,gemüsebrühe,350 ml,"{""volumen"": 350, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche"", ""eigenschaft"": ""gem\u00fcse""}",0.35000000000000003,l
+311,311,paprika edelsüß,0.5 teelöffel,"{""anzahl"": 0.5, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""edels\u00fc\u00df""}",0.0025,l
+312,312,topinambur frisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Topinambur"", ""eigenschaft"": ""frisch""}",500.0,g
+313,313,kartoffeln,350 g,"{""gewicht"": 350, ""einheit"": ""g""}","{""zutat"": ""Kartoffel""}",350.0,g
+314,314,kleine petersilienwurzel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Petersilienwurzel"", ""eigenschaft"": ""klein""}",1.0,pieces
+315,315,curry,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Curry""}",0.01,l
+316,316,zitronensaft frisch gepresst,1 spritzer,"{""volumen"": ""1"", ""einheit"": ""spritzer""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""gepresst""}",1.0,l
+317,317,agavensirup,2 tropfen,"{""anzahl"": 2, ""einheit"": ""tropfen""}","{""zutat"": ""Tropfen"", ""eigenschaft"": ""Agavensirup""}",2.0,pieces
+318,318,gemüsebrühe,750 ml,"{""volumen"": 750, ""einheit"": ""ml""}","{""zutat"": ""Br\u00fche"", ""eigenschaft"": ""gem\u00fcse""}",0.75,l
+319,319,sojasahne,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""Sojasahne""}",0.1,l
+320,320,margarine pflanzlich,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Margarine"", ""eigenschaft"": ""pflanzlich""}",0.015,l
+321,321,vollkornnudeln,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Nudel"", ""eigenschaft"": ""vollkorn""}",60.0,g
+322,322,tomate frisch,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",200.0,g
+323,323,oliven,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Olive"", ""eigenschaft"": ""oliv""}",40.0,g
+324,324,mascarpone,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Mascarpone""}",100.0,g
+325,325,gemüsebrühe,150 ml,"{""volumen"": 150, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche""}",0.15,l
+326,326,kräuter  petersilie schnittlauch  basilikum ,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Kraut"", ""eigenschaft"": ""geschnitten""}",0.03,l
+327,327,rucola,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Rucola""}",100.0,g
+328,328,parmesan gerieben,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Parmesan"", ""eigenschaft"": ""gerieben""}",40.0,g
+329,329,baby spinat,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Spinat"", ""eigenschaft"": ""baby""}",50.0,g
+330,330,rucola,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Rucola""}",30.0,g
+331,331,mangoldblätter rot,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Mangoldblatt"", ""eigenschaft"": ""rot""}",50.0,g
+332,332,zwiebel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+333,333,radieschen,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Radieschen""}",3.0,pieces
+334,334,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+335,335,senf mittelscharf,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Senf"", ""eigenschaft"": ""mittelscharf""}",0.005,l
+336,336,weinessig,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig"", ""eigenschaft"": ""wei\u00df""}",0.03,l
+337,337,rapsöl,4 esslöffel,"{""anzahl"": 4, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.06,l
+338,338,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+339,339,karotten,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Karotte""}",250.0,g
+340,340,zwiebel  entspricht  mittelgroßen,80 g,"{""gewicht"": 80, ""einheit"": ""g""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""mittelgro\u00df""}",80.0,g
+341,341,knoblauchzehen  ca    -  g,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Knoblauchzehe""}",2.0,pieces
+342,342,butter,125 g,"{""gewicht"": 125, ""einheit"": ""g""}","{""zutat"": ""Butter""}",125.0,g
+343,343,tomatenmark,140 g,"{""gewicht"": 140, ""einheit"": ""g""}","{""zutat"": ""Tomatenmark""}",140.0,g
+344,344,olivenöl extra vergine entspricht   el,10 g,"{""gewicht"": 10, ""einheit"": ""g""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Oliven-""}",10.0,g
+345,345,oregano,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Oregano""}",0.005,l
+346,346,thymian,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Thymian""}",0.005,l
+347,347,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+348,348,aalrauchschinken aufschnitt,4 scheiben,"{""anzahl"": 4, ""einheit"": ""scheiben""}","{""zutat"": ""Schinken"", ""eigenschaft"": ""Aalrauch""}",4.0,pieces
+349,349,hühnerbrust aufschnitt,4 scheiben,"{""anzahl"": 4, ""einheit"": ""scheiben""}","{""zutat"": ""H\u00fchnerbrust"", ""eigenschaft"": ""aufgeschnitten""}",4.0,pieces
+350,350,tomatenpüree,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Tomatenp\u00fcree""}",0.015,l
+351,351,sellerieknolle grobgewürfelt,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Sellerieknolle"", ""eigenschaft"": ""grob""}",50.0,g
+352,352,senf mittelscharf,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Senf"", ""eigenschaft"": ""mittelscharf""}",0.015,l
+353,353,schalotten  gewürfelt,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Schalotte"", ""eigenschaft"": ""gew\u00fcrfelt""}",2.0,pieces
+354,354,bärlauch frisch,6 blätter,"{""anzahl"": 6, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Blatt"", ""eigenschaft"": ""frisch""}",6.0,pieces
+355,355,dill frisch,1 stiel,"{""anzahl"": 1, ""einheit"": ""stiel""}","{""zutat"": ""Dill"", ""eigenschaft"": ""frisch""}",1.0,pieces
+356,356,blattpetersilienstielefrisch,2 stiel,"{""anzahl"": 2, ""einheit"": ""Stiel""}","{""zutat"": ""Petersilie"", ""eigenschaft"": ""frisch""}",2.0,pieces
+357,357,pfeffer aus der mühle,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""pfeffer""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""aus der M\u00fchle""}",0.0005,l
+358,358,himalayasalz,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""himalayasalz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""himalaya""}",0.0005,l
+359,359,oliven gefüllt  inscheibchen geschnitten,3 stück,"{""anzahl"": 3, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Olive"", ""eigenschaft"": ""geschnitten""}",3.0,pieces
+360,360,kondensmilch,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Milch"", ""eigenschaft"": ""kondensiert""}",0.015,l
+361,361,rüböl  rapsöl ,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""R\u00fcb-""}",0.005,l
+362,362,crema di balsamico,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Creme"", ""eigenschaft"": ""balsamico""}",0.005,l
+363,363,mu-err-pilze  getrocknet kleingebröselt,5 g,"{""gewicht"": 5, ""einheit"": ""g""}","{""zutat"": ""Pilz"", ""eigenschaft"": ""kleingebr\u00f6selt""}",5.0,g
+364,364,shii-take-pilze  getrocknet kleingebröselt,5 g,"{""gewicht"": 5, ""einheit"": ""g""}","{""zutat"": ""Pilz"", ""eigenschaft"": ""kleingebro\u0308selt""}",5.0,g
+365,365,glasnudeln,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Glasnudel"", ""eigenschaft"": ""gl\u00e4sern""}",30.0,g
+366,366,salz,8 g,"{""gewicht"": 8, ""einheit"": ""g""}","{""zutat"": ""Salz""}",8.0,g
+367,367,chilipulver,0.25 g,"{""gewicht"": 0.25, ""einheit"": ""g""}","{""zutat"": ""Chilipulver""}",0.25,g
+368,368,liebstöckel  getrocknet,0.5 g,"{""gewicht"": 0.5, ""einheit"": ""g""}","{""zutat"": ""Liebst\u00f6ckel"", ""eigenschaft"": ""getrocknet""}",0.5,g
+369,369,speisestärke,12 g,"{""gewicht"": 12, ""einheit"": ""g""}","{""zutat"": ""Speisest\u00e4rke""}",12.0,g
+370,370,dunkle sojasauce,25 ml,"{""volumen"": 25, ""einheit"": ""ml""}","{""zutat"": ""Sojasauce"", ""eigenschaft"": ""dunkel""}",0.025,l
+371,371,zitronensaft,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Zitronensaft""}",0.01,l
+372,372,wasser,1000 ml,"{""volumen"": 1000, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",1.0,l
+373,373,suppenhuhn,1200 g,"{""gewicht"": 1200, ""einheit"": ""g""}","{""zutat"": ""Suppenhuhn""}",1200.0,g
+374,374,suppengrün  sellerie möhre  petersilie,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Suppengr\u00fcn""}",400.0,g
+375,375,spargel,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Spargel""}",400.0,g
+376,376,rosenkohl,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Rosenkohl"", ""eigenschaft"": ""roh""}",400.0,g
+377,377,salz,10 g,"{""gewicht"": 10, ""einheit"": ""g""}","{""zutat"": ""Salz"", ""eigenschaft"": ""fein""}",10.0,g
+378,378,safran,0.1 g,"{""gewicht"": 0.1, ""einheit"": ""g""}","{""zutat"": ""Safran""}",0.1,g
+379,379,pfeffer,2 g,"{""gewicht"": 2, ""einheit"": ""g""}","{""zutat"": ""Pfeffer""}",2.0,g
+380,380,lorbeerblatt,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Lorbeerblatt"", ""eigenschaft"": ""ganz""}",1.0,pieces
+381,381,wasser,3000 ml,"{""volumen"": 3000, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",3.0,l
+382,382,eier,6 stück,"{""anzahl"": 6, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""St\u00fcck""}",6.0,pieces
+383,383,sahne,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Sahne""}",0.1,l
+384,384,salz,10 g,"{""gewicht"": 10, ""einheit"": ""g""}","{""zutat"": ""Salz""}",10.0,g
+385,385,pfeffer  weiß,1 g,"{""gewicht"": 1, ""einheit"": ""g""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""wei\u00df""}",1.0,g
+386,386,muskatnuss oder macis,0.3 g,"{""gewicht"": 0.3, ""einheit"": ""g""}","{""zutat"": ""Muskatnuss"", ""eigenschaft"": ""ganz""}",0.3,g
+387,387,suppennudeln,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Suppennudel""}",200.0,g
+388,388,kartoffel,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Kartoffel""}",300.0,g
+389,389,chicoree frisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Chicor\u00e9e"", ""eigenschaft"": ""frisch""}",500.0,g
+390,390,gekochter schinken,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Schinken"", ""eigenschaft"": ""gekocht""}",200.0,g
+391,391,eier,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",2.0,pieces
+392,392,fettarme milch,50 ml,"{""volumen"": 50, ""einheit"": ""ml""}","{""zutat"": ""Milch"", ""eigenschaft"": ""fettarm""}",0.05,l
+393,393,fettreduzierte sahne,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fettreduziert""}",0.1,l
+394,394,käse gerieben,5 el,"{""volumen"": 5, ""einheit"": ""el""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""gerieben""}",0.075,l
+395,395,äpfel,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Apfel""}",2.0,pieces
+396,396,sonnenblumenkerne,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Sonnenblumenkern"", ""eigenschaft"": ""roh""}",0.03,l
+397,397,fenchel frisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Fenchel"", ""eigenschaft"": ""frisch""}",500.0,g
+398,398,rapsöl,4 tl,"{""volumen"": 4, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.02,l
+399,399,salami,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Salami""}",100.0,g
+400,400,eiweißbrot,2 scheiben,"{""anzahl"": 2, ""einheit"": ""Scheiben""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Eiwei\u00dfbrot""}",2.0,pieces
+401,401,fischfilet  z b  rotbarsch ,250 gramm,"{""gewicht"": 250, ""einheit"": ""gramm""}","{""zutat"": ""Fischfilet"", ""eigenschaft"": ""rot""}",250.0,g
+402,402,thymianzweig,1,"{""anzahl"": 1, ""einheit"": ""Zweig""}","{""zutat"": ""Thymianzweig""}",1.0,pieces
+403,403,olivenöl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""oliven""}",0.015,l
+404,404,zucchini   g ,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zucchini""}",1.0,pieces
+405,405,stückige tomaten,1 kl. dose,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""st\u00fcckig""}",1.0,pieces
+406,406,basilikum,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Basilikum""}",0.015,l
+407,407,zitrone unbehandelt,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zitrone"", ""eigenschaft"": ""unbehandelt""}",1.0,pieces
+408,408,petersilie,0.25 bund,"{""anzahl"": 0.25, ""einheit"": ""bund""}","{""zutat"": ""Petersilie"", ""eigenschaft"": ""Bund""}",0.25,pieces
+409,409,dill frisch,0.25 bund,"{""anzahl"": 0.25, ""einheit"": ""Bund""}","{""zutat"": ""Dill"", ""eigenschaft"": ""frisch""}",0.25,pieces
+410,410,lachsfilet,300 gramm,"{""gewicht"": 300, ""einheit"": ""gramm""}","{""zutat"": ""Lachsfilet""}",300.0,g
+411,411,grüner spargel,100 gramm,"{""gewicht"": 100, ""einheit"": ""gramm""}","{""zutat"": ""Spargel"", ""eigenschaft"": ""gr\u00fcn""}",100.0,g
+412,412,weißer bruch- spargel,100 gramm,"{""gewicht"": 100, ""einheit"": ""gramm""}","{""zutat"": ""Spargel"", ""eigenschaft"": ""bruch-""}",100.0,g
+413,413,junge möhren,100 gramm,"{""gewicht"": 100, ""einheit"": ""gramm""}","{""zutat"": ""M\u00f6hre"", ""eigenschaft"": ""jung""}",100.0,g
+414,414,grünkern burger,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Gr\u00fcnkern"", ""eigenschaft"": ""burger""}",1.0,pieces
+415,415,wasser kochend,250 ml,"{""volumen"": 250, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""kochend""}",0.25,l
+416,416,karotten gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+417,417,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+418,418,walnüsse gehackt,2 ½ esslöffel,"{""anzahl"": 2.5, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Walnuss"", ""eigenschaft"": ""gehackt""}",0.0375,l
+419,419,sesam,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Sesam"", ""eigenschaft"": ""2 Essl\u00f6ffel""}",0.03,l
+420,420,butterschmalz,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.03,l
+421,421,kartoffeln festkochendgeschält,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Kartoffel"", ""eigenschaft"": ""gesch\u00e4lt""}",6.0,pieces
+422,422,wasser gesalzen,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""gesalzen""}",1.0,l
+423,423,muskatnuss frisch gerieben,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Muskatnuss""}","{""zutat"": ""Muskatnuss"", ""eigenschaft"": ""gerieben""}",0.0005,l
+424,424,salz,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz""}",0.005,l
+425,425,pfeffer aus der mühleschwarz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""schwarz""}",0.0005,l
+426,426,milch heiß,1 schuss,"{""anzahl"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Schuss"", ""eigenschaft"": ""hei\u00df""}",1.0,pieces
+427,427,butter,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Butter""}",60.0,g
+428,428,karotten gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+429,429,prinzessbohnen gewürfelt,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Prinzessbohne"", ""eigenschaft"": ""gew\u00fcrfelt""}",60.0,g
+430,430,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+431,431,fleischbrühe,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Fleischbr\u00fche"", ""eigenschaft"": ""fl\u00fcssig""}",1.0,l
+432,432,petersilie,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Petersilie""}",0.015,l
+433,433,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+434,434,endivien frisch,4 blatt,"{""anzahl"": 4, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Endivie"", ""eigenschaft"": ""frisch""}",4.0,pieces
+435,435,mehl gesiebt,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Mehl"", ""eigenschaft"": ""gesiebt""}",500.0,g
+436,436,hefe,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Hefe""}",1.0,pieces
+437,437,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+438,438,salz grob,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+439,439,olivenöl extra vergine,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""extra vergine""}",0.03,l
+440,440,wasser lauwarm,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""lauwarm""}",0.2,l
+441,441,ei,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Ei""}",1.0,pieces
+442,442,endivien frisch,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Endivie"", ""eigenschaft"": ""frisch""}",0.5,pieces
+443,443,speck durchwachsen,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Speck"", ""eigenschaft"": ""durchwachsen""}",150.0,g
+444,444,zwiebel,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+445,445,knoblauchzehen gehackt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Knoblauchzehe"", ""eigenschaft"": ""gehackt""}",1.0,pieces
+446,446,oliven schwarz entsteint,1 dose,"{""anzahl"": 1, ""einheit"": ""Dose""}","{""zutat"": ""Olive"", ""eigenschaft"": ""entsteint""}",1.0,pieces
+447,447,sardellen  anchovis ,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Sardelle""}",3.0,pieces
+448,448,kapern,1 dose,"{""anzahl"": 1, ""einheit"": ""dose""}","{""zutat"": ""Kaper"", ""eigenschaft"": ""Konserve""}",1.0,pieces
+449,449,salz und pfeffer,1 ½ teelöffel,"{""anzahl"": 1.5, ""einheit"": ""teel\u00f6ffel"", ""zutat"": ""salz""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""halb""}",0.0075,l
+450,450,muskatnuss frisch gerieben,2 prise,"{""anzahl"": 2, ""einheit"": ""Prise""}","{""zutat"": ""Muskatnuss"", ""eigenschaft"": ""gerieben""}",0.001,l
+451,451,pfeffer aus der mühleschwarz,3 prise,"{""anzahl"": 3, ""einheit"": ""prise"", ""zutat"": ""pfeffer""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""schwarz""}",0.0015,l
+452,452,sahne,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Sahne""}",1.0,pieces
+453,453,eier,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Ei"", ""eigenschaft"": ""ganz""}",2.0,pieces
+454,454,schnittlauch frisch gehackt,1 bund,"{""anzahl"": 1, ""einheit"": ""bund""}","{""zutat"": ""Schnittlauch"", ""eigenschaft"": ""gehackt""}",1.0,pieces
+455,455,karotten gerieben,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gerieben""}",300.0,g
+456,456,apfel elstar,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Apfel"", ""eigenschaft"": ""Elstar""}",1.0,pieces
+457,457,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+458,458,zucker,0.5 teelöffel,"{""anzahl"": 0.5, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""0.5""}",0.0025,l
+459,459,rapsöl,4 esslöffel,"{""anzahl"": 4, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.06,l
+460,460,zitronensaft,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Zitronensaft""}",0.03,l
+461,461,wasser,2 ½ liter,"{""volumen"": ""2 \u00bd"", ""einheit"": ""liter""}","{""zutat"": ""Liter"", ""eigenschaft"": ""halb""}",2.5,l
+462,462,zwiebel frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+463,463,selleriestange,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Selleriestange""}",6.0,pieces
+464,464,wurzelgemüse,800 gramm,"{""gewicht"": 800, ""einheit"": ""gramm""}","{""zutat"": ""Wurzelgem\u00fcse""}",800.0,g
+465,465,chilischote grün,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Chilischote"", ""eigenschaft"": ""gr\u00fcn""}",1.0,pieces
+466,466,pfefferkörner,15 stk.,"{""anzahl"": 15, ""einheit"": ""stk.""}","{""zutat"": ""Pfefferkorn""}",15.0,pieces
+467,467,piment,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Piment""}",3.0,pieces
+468,468,karotten,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Karotte""}",3.0,pieces
+469,469,topinambur frisch,8 stk.,"{""anzahl"": 8, ""einheit"": ""stk.""}","{""zutat"": ""Topinambur"", ""eigenschaft"": ""frisch""}",8.0,pieces
+470,470,rote bete frisch,3 stk,"{""anzahl"": 3, ""einheit"": ""stk""}","{""zutat"": ""Rote Bete"", ""eigenschaft"": ""frisch""}",3.0,pieces
+471,471,viktoriabarsch,550 g,"{""gewicht"": 550, ""einheit"": ""g""}","{""zutat"": ""Barsch"", ""eigenschaft"": ""viktorianisch""}",550.0,g
+472,472,mehl,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Mehl""}",0.03,l
+473,473,butterschmalz,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.015,l
+474,474,wasser gesalzen,1 ½ liter,"{""volumen"": ""1 \u00bd"", ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""gesalzen""}",1.5,l
+475,475,wildreis,1 ½ tasse,"{""volumen"": ""1 \u00bd"", ""einheit"": ""tasse""}","{""zutat"": ""Reis"", ""eigenschaft"": ""wild""}",0.375,l
+476,476,butter,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butter""}",0.015,l
+477,477,schnittlauch frisch gehackt,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Schnittlauch"", ""eigenschaft"": ""gehackt""}",0.03,l
+478,478,rinderhack,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Rinderhack"", ""eigenschaft"": ""roh""}",250.0,g
+479,479,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+480,480,quark magerstufe,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Quark"", ""eigenschaft"": ""mager""}",0.03,l
+481,481,senf mittelscharf,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Senf"", ""eigenschaft"": ""mittelscharf""}",0.015,l
+482,482,karotten gerieben,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gerieben""}",0.5,pieces
+483,483,tomaten getrocknet,5 stk.,"{""anzahl"": 5, ""einheit"": ""stk.""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""getrocknet""}",5.0,pieces
+484,484,semmelbrösel,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Semmelbr\u00f6sel""}",3.0,pieces
+485,485,ei,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Ei""}",1.0,pieces
+486,486,petersilie fein geschnitten,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Petersilie"", ""eigenschaft"": ""fein geschnitten""}",0.015,l
+487,487,schnittlauch frisch gehackt,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Schnittlauch"", ""eigenschaft"": ""gehackt""}",0.015,l
+488,488,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+489,489,butterschmalz,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.015,l
+490,490,speck durchwachsen,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Speck"", ""eigenschaft"": ""durchwachsen""}",50.0,g
+491,491,plaumenschnaps,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Pflaumenschnaps""}",2.0,l
+492,492,kondensmilch     fett,0.75 päckchen,"{""anzahl"": 0.75, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Kondensmilch"", ""eigenschaft"": ""fett""}",0.75,pieces
+493,493,emmentaler gerieben,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Emmentaler"", ""eigenschaft"": ""gerieben""}",40.0,g
+494,494,teigwaren  allgemein hörnchen,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Teigware"", ""eigenschaft"": ""H\u00f6rnchen""}",120.0,g
+495,495,wasser gesalzen,1 ½ liter,"{""volumen"": ""1 \u00bd"", ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""gesalzen""}",1.5,l
+496,496,sobanudeln,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Sobanudel"", ""eigenschaft"": ""200 g""}",200.0,g
+497,497,gemüsefond,1 l,"{""volumen"": 1, ""einheit"": ""l""}","{""zutat"": ""Gem\u00fcsefond""}",1.0,l
+498,498,thai-spargel,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Spargel"", ""eigenschaft"": ""thai""}",200.0,g
+499,499,sojasoße,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""Sojaso\u00dfe""}",0.03,l
+500,500,misopaste hell,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Misopaste"", ""eigenschaft"": ""hell""}",0.03,l
+501,501,limette,0.5,"{""anzahl"": 0.5, ""einheit"": ""limette""}","{""zutat"": ""Limette""}",0.5,pieces
+502,502,wakame algen getrocknet,6 g,"{""gewicht"": 6, ""einheit"": ""g""}","{""zutat"": ""Alge"", ""eigenschaft"": ""getrocknet""}",6.0,g
+503,503,ingwer,1 stck,"{""anzahl"": 1, ""einheit"": ""stck""}","{""zutat"": ""Ingwer""}",1.0,pieces
+504,504,topfen   f i t ,125 g,"{""gewicht"": 125, ""einheit"": ""g""}","{""zutat"": ""Topfen"", ""eigenschaft"": ""top""}",125.0,g
+505,505,grapefruit pink frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Grapefruit"", ""eigenschaft"": ""frisch""}",1.0,pieces
+506,506,orange frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Orange"", ""eigenschaft"": ""frisch""}",1.0,pieces
+507,507,haferflocken,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""Haferflocke""}",0.045,l
+508,508,einweckgläser,5 stk.,"{""anzahl"": 5, ""einheit"": ""stk.""}","{""zutat"": ""Einweckglas"", ""eigenschaft"": ""St\u00fcck""}",5.0,pieces
+509,509,kohlrabi frisch,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Kohlrabi"", ""eigenschaft"": ""frisch""}",2.0,pieces
+510,510,rosenkohl frisch,1 kg,"{""gewicht"": 1, ""einheit"": ""kg""}","{""zutat"": ""Rosenkohl"", ""eigenschaft"": ""frisch""}",1000.0,g
+511,511,karotte,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Karotte""}",1.0,pieces
+512,512,fenchel frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Fenchel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+513,513,ingwer frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Ingwer"", ""eigenschaft"": ""frisch""}",1.0,pieces
+514,514,zucchini,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zucchini"", ""eigenschaft"": ""stark""}",1.0,pieces
+515,515,curry,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Curry""}",0.005,l
+516,516,zwiebel,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel""}",3.0,pieces
+517,517,liebstöckel frisch,3 zweige,"{""anzahl"": 3, ""einheit"": ""zweige""}","{""zutat"": ""Liebst\u00f6ckel"", ""eigenschaft"": ""frisch""}",3.0,pieces
+518,518,wasser kochend,2.2 liter,"{""volumen"": 2.2, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""kochend""}",2.2,l
+519,519,wasser kalt,2 liter,"{""volumen"": 2, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""kalt""}",2.0,l
+520,520,chilli rot,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Chili"", ""eigenschaft"": ""rot""}",1.0,pieces
+521,521,kalbfleisch,1 stck.,"{""anzahl"": 1, ""einheit"": ""stck.""}","{""zutat"": ""Kalbfleisch""}",1.0,pieces
+522,522,ei,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",1.0,pieces
+523,523,semmelbrösel,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""Semmelbr\u00f6sel""}",0.045,l
+524,524,mehl,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Mehl""}",0.03,l
+525,525,zucchini,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zucchini""}",1.0,pieces
+526,526,zitrone,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zitrone""}",1.0,pieces
+527,527,minzeblätter,1 hand,"{""anzahl"": 1, ""einheit"": ""hand""}","{""zutat"": ""M\u00fcnzblatt"", ""eigenschaft"": ""hand""}",1.0,pieces
+528,528,hakkaido-kürbis,750 g,"{""gewicht"": 750, ""einheit"": ""g""}","{""zutat"": ""K\u00fcrbis"", ""eigenschaft"": ""Hakkaido""}",750.0,g
+529,529,gemüsebrühe,2 liter,"{""volumen"": 2, ""einheit"": ""liter""}","{""zutat"": ""Br\u00fche"", ""eigenschaft"": ""gem\u00fcse-""}",2.0,l
+530,530,knoblauchzehe geschält,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Knoblauchzehe"", ""eigenschaft"": ""gesch\u00e4lt""}",1.0,pieces
+531,531,lauch längs halbiert undgeschnitten,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Lauch"", ""eigenschaft"": ""geschnitten""}",100.0,g
+532,532,chilischote,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Chilischote""}",1.0,pieces
+533,533,curry,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Curry""}",0.005,l
+534,534,äpfel elstar,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Apfel"", ""eigenschaft"": ""Elstar""}",2.0,pieces
+535,535,sahne   fett,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fett""}",200.0,g
+536,536,kürbiskerne,6 esslöffel,"{""anzahl"": 6, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Kern"", ""eigenschaft"": ""K\u00fcrbis""}",0.09,l
+537,537,sonnenblumenkerne geröstet,6 esslöffel,"{""anzahl"": 6, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Sonnenblumenkern"", ""eigenschaft"": ""ger\u00f6stet""}",0.09,l
+538,538,dinkelvollkornmehl,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Dinkelvollkornmehl""}",250.0,g
+539,539,dinkelmehl typ  ,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Dinkelmehl"", ""eigenschaft"": ""typ""}",250.0,g
+540,540,zuckerrübensirup,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Sirup"", ""eigenschaft"": ""Zuckerr\u00fcben""}",0.005,l
+541,541,salz,1 ½ tl,"{""anzahl"": 1.5, ""einheit"": ""tl""}","{""zutat"": ""Salz""}",0.0075,l
+542,542,hefe,1 würfel,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Hefe"", ""eigenschaft"": ""W\u00fcrfel""}",1.0,pieces
+543,543,öl,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""\u00d6l""}",0.045,l
+544,544,wasser warm,250 ml,"{""volumen"": 250, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""warm""}",0.25,l
+545,545,sonnenblumenkerne,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Sonnenblumenkern"", ""eigenschaft"": ""sonnen-""}",60.0,g
+546,546,apfelmus,125 gramm,"{""gewicht"": 125, ""einheit"": ""gramm""}","{""zutat"": ""Apfelmus""}",125.0,g
+547,547,kandisin pulver,10 gramm,"{""gewicht"": 10, ""einheit"": ""gramm""}","{""zutat"": ""Kandisin"", ""eigenschaft"": ""Pulver""}",10.0,g
+548,548,vanillezucker,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Vanillezucker""}",1.0,pieces
+549,549,eier,3 stück,"{""anzahl"": 3, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""frisch""}",3.0,pieces
+550,550,zitronensaft,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Zitronensaft""}",2.0,l
+551,551,backpulver,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Backpulver""}",1.0,pieces
+552,552,kochpuddingpulver mitvanillegeschmack,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Puddingpulver"", ""eigenschaft"": ""Vanille""}",1.0,pieces
+553,553,weizen grieß,4 esslöffel,"{""anzahl"": 4, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essl\u00f6ffel"", ""eigenschaft"": ""Weizen""}",0.06,l
+554,554,topfen mager ,1 kg,"{""gewicht"": 1, ""einheit"": ""kg""}","{""zutat"": ""Topfen"", ""eigenschaft"": ""mager""}",1000.0,g
+555,555,tomaten frisch aus demgarten,1 schüssel,"{""anzahl"": 1, ""einheit"": ""sch\u00fcssel""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""aus dem Garten""}",1.0,pieces
+556,556,paprika,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Paprika""}",3.0,pieces
+557,557,zwiebel rot,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""rot""}",1.0,pieces
+558,558,gurke,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Gurke""}",1.0,pieces
+559,559,basilikumblätter,1 hand voll,"{""anzahl"": 1, ""einheit"": ""hand voll""}","{""zutat"": ""Basilikumblatt""}",1.0,pieces
+560,560,essig,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig""}",0.03,l
+561,561,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+562,562,honig flüssig,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Honig"", ""eigenschaft"": ""fl\u00fcssig""}",0.015,l
+563,563,olivenöl extra vergine,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""extra vergine""}",0.03,l
+564,564,gemüsebrühe,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche"", ""eigenschaft"": ""gem\u00fcseartig""}",0.2,l
+565,565,küchenmaschine,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchenmaschine""}",1.0,pieces
+566,566,romanesco,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Romanesco""}",1.0,pieces
+567,567,blumenkohl frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Blumenkohl"", ""eigenschaft"": ""frisch""}",1.0,pieces
+568,568,kartoffeln festkochend,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Kartoffel"", ""eigenschaft"": ""festkochend""}",4.0,pieces
+569,569,ei,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Ei"", ""eigenschaft"": ""stark""}",1.0,pieces
+570,570,sahne,0.5 päckchen,"{""anzahl"": 0.5, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Sahne""}",0.5,pieces
+571,571,milch,150 ml,"{""volumen"": 150, ""einheit"": ""ml""}","{""zutat"": ""Milch"", ""eigenschaft"": ""fl\u00fcssig""}",0.15,l
+572,572,muskatnuss frisch gerieben,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""muskatnuss""}","{""zutat"": ""Muskatnuss"", ""eigenschaft"": ""gerieben""}",0.0005,l
+573,573,pfeffer schwarz aus dermühle,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""pfeffer""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""aus der M\u00fchle""}",0.0005,l
+574,574,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+575,575,mozzarella minis,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Mozzarella"", ""eigenschaft"": ""mini""}",1.0,pieces
+576,576,leerdamer käse,6 scheiben,"{""anzahl"": 6, ""einheit"": ""scheiben""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""Leerdamer""}",6.0,pieces
+577,577,weisskraut,1 kopf,"{""anzahl"": 1, ""einheit"": ""kopf""}","{""zutat"": ""Weiskraut"", ""eigenschaft"": ""wei\u00df""}",1.0,pieces
+578,578,salatgurke,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Salatgurke""}",1.0,pieces
+579,579,salz,1 el,"{""volumen"": 1, ""einheit"": ""el"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.015,l
+580,580,kräuteressig,0.125 liter,"{""volumen"": 0.125, ""einheit"": ""liter""}","{""zutat"": ""Essig"", ""eigenschaft"": ""kr\u00e4uter""}",0.125,l
+581,581,maiskeimöl,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""Maiskeim\u00f6l""}",0.06,l
+582,582,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+583,583,rotkohl frisch,0.25 kopf,"{""anzahl"": 0.25, ""einheit"": ""kopf""}","{""zutat"": ""Rotkohl"", ""eigenschaft"": ""frisch""}",0.25,pieces
+584,584,zwiebel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+585,585,altmeister - essig,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig"", ""eigenschaft"": ""alt""}",0.03,l
+586,586,rapsöl,4 esslöffel,"{""anzahl"": 4, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.06,l
+587,587,zimt gemahlen,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zimt""}","{""zutat"": ""Zimt"", ""eigenschaft"": ""gemahlen""}",0.0005,l
+588,588,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+589,589,rotkohl frisch,0.25 kopf,"{""anzahl"": 0.25, ""einheit"": ""kopf""}","{""zutat"": ""Rotkohl"", ""eigenschaft"": ""frisch""}",0.25,pieces
+590,590,salz grob,1 teelöffel (gestrichen),"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+591,591,pfeffer aus der mühleschwarz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""m\u00fchleschwarz""}",0.0005,l
+592,592,zucker,0.5 teelöffel,"{""volumen"": 0.5, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""halber""}",0.0025,l
+593,593,zwiebel gewürfelt,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+594,594,altmeister - essig,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig"", ""eigenschaft"": ""alt""}",0.03,l
+595,595,wasser kochend,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""kochend""}",1.0,l
+596,596,fischfrikadellen s m kb,4,"{""anzahl"": 4, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Fischfrikadelle"", ""eigenschaft"": ""s""}",4.0,pieces
+597,597,quinoa,1 kleine tasse,"{""volumen"": 1, ""einheit"": ""tasse""}","{""zutat"": ""Quinoa"", ""eigenschaft"": ""klein""}",0.25,l
+598,598,wasser,2 kleine tassen,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Tasse"", ""eigenschaft"": ""klein""}",2.0,pieces
+599,599,zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+600,600,paprikaschote rot,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprikaschote"", ""eigenschaft"": ""rot""}",1.0,pieces
+601,601,knoblauch frisch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""frisch""}",1.0,pieces
+602,602,butter,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Butter""}",0.005,l
+603,603,leberwurst,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Leberwurst""}",250.0,g
+604,604,zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+605,605,spitzpaprika rot,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Spitzpaprika"", ""eigenschaft"": ""rot""}",1.0,pieces
+606,606,tomaten frisch,6 kleine,"{""anzahl"": 6, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""frisch""}",6.0,pieces
+607,607,gemüsegurkenscheiben,12 stück,"{""anzahl"": 12, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Gem\u00fcsegurke"", ""eigenschaft"": ""geschnitten""}",12.0,pieces
+608,608,zucchinscheiben,8 stück,"{""anzahl"": 8, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zucchinischeibe""}",8.0,pieces
+609,609,schweizer käse  individuellgeschnitten,10 stücke,"{""anzahl"": 10, ""einheit"": ""st\u00fccke""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""individuell geschnitten""}",10.0,pieces
+610,610,johannisbeeren  rot,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Johannisbeere"", ""eigenschaft"": ""rot""}",40.0,g
+611,611,wassermelone frisch,1 mittelgross,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Wassermelone"", ""eigenschaft"": ""frisch""}",1.0,pieces
+612,612,feta eingelegt undgewürfelt,200 gr.,"{""gewicht"": 200, ""einheit"": ""gr""}","{""zutat"": ""Feta"", ""eigenschaft"": ""gew\u00fcrfelt""}",200.0,g
+613,613,rucola,1 bd.,"{""anzahl"": 1, ""einheit"": ""bd.""}","{""zutat"": ""Rucola""}",1.0,pieces
+614,614,salz,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.0005,l
+615,615,pfeffer bunt,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""pfeffer bunt""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""bunt""}",0.0005,l
+616,616,paprika grün,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""gr\u00fcn""}",1.0,pieces
+617,617,paprika rot,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",1.0,pieces
+618,618,paprika orange,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""orange""}",0.5,pieces
+619,619,zucchini,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zucchini""}",1.0,pieces
+620,620,butterschmalz,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.015,l
+621,621,zwiebel gewürfelt,2 ½ stk.,"{""anzahl"": 2.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",2.5,pieces
+622,622,knoblauch gehackt,2 zehen,"{""anzahl"": 2, ""einheit"": ""Zehen""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""gehackt""}",2.0,pieces
+623,623,tomatenmark dreifachkonzentriert,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Tomatenmark"", ""eigenschaft"": ""dreifachkonzentriert""}",0.015,l
+624,624,wasser,50 ml,"{""volumen"": 50, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",0.05,l
+625,625,romatomaten,8 stk.,"{""anzahl"": 8, ""einheit"": ""stk.""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""roma""}",8.0,pieces
+626,626,estragon getrocknet,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Estragon"", ""eigenschaft"": ""getrocknet""}",0.005,l
+627,627,basilikum gehackt,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Basilikum"", ""eigenschaft"": ""gehackt""}",0.005,l
+628,628,rosmarin frisch,1 zweig,"{""anzahl"": 1, ""einheit"": ""Zweig""}","{""zutat"": ""Zweig"", ""eigenschaft"": ""frisch""}",1.0,pieces
+629,629,nudeln,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Nudel""}",300.0,g
+630,630,zucchini,1 ½ stk.,"{""anzahl"": 1.5, ""einheit"": ""stk.""}","{""zutat"": ""Zucchini""}",1.5,pieces
+631,631,wasser,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",0.1,l
+632,632,rucola,0.5 bund,"{""anzahl"": 0.5, ""einheit"": ""Bund""}","{""zutat"": ""Rucola"", ""eigenschaft"": ""bund""}",0.5,pieces
+633,633,kartoffeln festkochend,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Kartoffel"", ""eigenschaft"": ""festkochend""}",1.0,pieces
+634,634,zwiebel,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel""}",0.5,pieces
+635,635,liebstöckel frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Liebst\u00f6ckel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+636,636,schmand,8 teelöffel,"{""anzahl"": 8, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""acht""}",0.04,l
+637,637,schwein schnitzel,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Schnitzel"", ""eigenschaft"": ""schwein""}",2.0,pieces
+638,638,zucchini,6 scheibe,"{""anzahl"": 6, ""einheit"": ""Scheibe""}","{""zutat"": ""Zucchini"", ""eigenschaft"": ""geschnitten""}",6.0,pieces
+639,639,dörrfleisch,6 scheibe,"{""anzahl"": 6, ""einheit"": ""Scheibe""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""getrocknet""}",6.0,pieces
+640,640,emmentaler,6 scheibe,"{""anzahl"": 6, ""einheit"": ""Scheibe""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Emmentaler""}",6.0,pieces
+641,641,ei,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Ei""}",1.0,pieces
+642,642,pankomehl,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Panko"", ""eigenschaft"": ""japanisch""}",100.0,g
+643,643,spieße,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spie\u00df""}",2.0,pieces
+644,644,butterschmalz,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.03,l
+645,645,ebly,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Ebly"", ""eigenschaft"": ""roh""}",100.0,g
+646,646,fleischbrühe,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Br\u00fche"", ""eigenschaft"": ""fleischig""}",1.0,l
+647,647,buschbohnen frisch,1 voll,"{""anzahl"": 1, ""einheit"": ""voll""}","{""zutat"": ""Buschbohne"", ""eigenschaft"": ""frisch""}",1.0,pieces
+648,648,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,pieces
+649,649,wasser,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",1.0,l
+650,650,bohnenkraut fein geschnitten,0.5 teelöffel,"{""anzahl"": 0.5, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Bohnenkraut"", ""eigenschaft"": ""fein geschnitten""}",0.0025,l
+651,651,karotten,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Karotte""}",1.0,pieces
+652,652,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+653,653,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,l
+654,654,möhre mittelgroß,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""M\u00f6hre"", ""eigenschaft"": ""mittelgro\u00df""}",2.0,pieces
+655,655,staudensellerie stangen,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Staudensellerie"", ""eigenschaft"": ""st\u00e4ngelnd""}",1.0,pieces
+656,656,kapern,30 gr.,"{""gewicht"": 30, ""einheit"": ""gr""}","{""zutat"": ""Kaper"", ""eigenschaft"": ""klein""}",30.0,g
+657,657,frühlingszwiebeln,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""fr\u00fch""}",3.0,pieces
+658,658,radieschen,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Radieschen""}",6.0,pieces
+659,659,kerbel gehackt,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Kerbel"", ""eigenschaft"": ""gehackt""}",0.015,l
+660,660,schnittlauch,1 bund,"{""anzahl"": 1, ""einheit"": ""bund""}","{""zutat"": ""Schnittlauch""}",1.0,pieces
+661,661,bärlauch frisch,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""B\u00e4rlauch"", ""eigenschaft"": ""frisch""}",0.015,l
+662,662,petersilie,1 zweig,"{""anzahl"": 1, ""einheit"": ""Zweig""}","{""zutat"": ""Petersilie"", ""eigenschaft"": ""zweig""}",1.0,pieces
+663,663,zitrone,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zitrone""}",1.0,pieces
+664,664,schmand,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Schmand""}",0.25,l
+665,665,jostabeeren,1600 g,"{""gewicht"": 1600, ""einheit"": ""g""}","{""zutat"": ""Jostabeere"", ""eigenschaft"": ""rot""}",1600.0,g
+666,666,wasser,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""fl\u00fcssig""}",0.2,l
+667,667,flotte lotte,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Lotte"", ""eigenschaft"": ""flott""}",1.0,pieces
+668,668,gelierzucker  - ,420 g,"{""gewicht"": 420, ""einheit"": ""g""}","{""zutat"": ""Gelierzucker"", ""eigenschaft"": ""gelier""}",420.0,g
+669,669,gelierzucker  - ,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Gelierzucker"", ""eigenschaft"": ""gelb""}",250.0,g
+670,670,kirschen oder sauerkirschen entsteint,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Kirsche"", ""eigenschaft"": ""entsteint""}",100.0,g
+671,671,ananas gewürfelt,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Ananas"", ""eigenschaft"": ""gew\u00fcrfelt""}",100.0,g
+672,672,fruchtsaft  leicht gezuckert z  b  vom kirschenglas ,300 ml,"{""volumen"": 300, ""einheit"": ""ml""}","{""zutat"": ""Fruchtsaft"", ""eigenschaft"": ""gezuckert""}",0.3,l
+673,673,wasser heiß,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""hei\u00df""}",0.2,l
+674,674,speisestärke  mit kaltemwasser zuvor anrühren,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Speisest\u00e4rke"", ""eigenschaft"": ""kalt""}",0.015,l
+675,675,zitrone oder limette inscheiben  unbehandelt ,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zitrone"", ""eigenschaft"": ""unbehandelt""}",1.0,pieces
+676,676,zimtrinde  gerieben,1 msp,"{""anzahl"": 1, ""einheit"": ""msp""}","{""zutat"": ""Zimtrinde"", ""eigenschaft"": ""gerieben""}",0.0005,l
+677,677,eiswürfel,20 stück,"{""anzahl"": 20, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Eisw\u00fcrfel""}",20.0,pieces
+678,678,zucker  ersatzweise steviasüßmittel  - ,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Zucker""}",0.005,l
+679,679,farfalle,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Farfalle""}",200.0,g
+680,680,erbsen,1 tasse,"{""volumen"": 1, ""einheit"": ""tasse""}","{""zutat"": ""Erbe"", ""eigenschaft"": ""gr\u00fcn""}",0.25,l
+681,681,karotten gewürfelt,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gew\u00fcrfelt""}",2.0,pieces
+682,682,kochschinken,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Schinken"", ""eigenschaft"": ""gekocht""}",200.0,g
+683,683,rapsöl,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Raps\u00f6l""}",0.015,l
+684,684,kondensmilch     fett,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Kondensmilch"", ""eigenschaft"": ""fett""}",200.0,g
+685,685,magermilch,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Milch"", ""eigenschaft"": ""mager""}",0.1,l
+686,686,cherry dattel tomaten,10 stk.,"{""anzahl"": 10, ""einheit"": ""stk.""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""dattel""}",10.0,pieces
+687,687,kerrygold bergkäse gerieben,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""Bergk\u00e4se""}",40.0,g
+688,688,parmesan gerieben,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Parmesan"", ""eigenschaft"": ""gerieben""}",0.015,l
+689,689,mangos frisch,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Mango"", ""eigenschaft"": ""frisch""}",2.0,pieces
+690,690,joghurt,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Joghurt""}",0.03,l
+691,691,crème fraîche,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Cr\u00e8me fra\u00eeche""}",0.25,l
+692,692,ebly aus hartweizen,140 g,"{""gewicht"": 140, ""einheit"": ""g""}","{""zutat"": ""Ebly"", ""eigenschaft"": ""aus Hartweizen""}",140.0,g
+693,693,rapsöl,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps-""}",0.03,l
+694,694,zwiebel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+695,695,knoblauch gehackt,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""gehackt""}",1.0,pieces
+696,696,gemüsebrühe heiß,300 ml,"{""volumen"": 300, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche"", ""eigenschaft"": ""hei\u00df""}",0.3,l
+697,697,schlotten,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Schlotte"", ""eigenschaft"": ""St\u00fcck""}",6.0,pieces
+698,698,paprika edelsüß,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""edels\u00fc\u00df""}",0.005,l
+699,699,parmesan gerieben,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Parmesan"", ""eigenschaft"": ""gerieben""}",0.015,l
+700,700,quinoa,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Quinoa""}",100.0,g
+701,701,gemüsebrühe,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Gem\u00fcsebr\u00fche""}",250.0,g
+702,702,hirseflocken,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Hirscheflocke""}",0.03,l
+703,703,zwiebel,1 kleine,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""klein""}",1.0,pieces
+704,704,lauch,0.5 stange,"{""anzahl"": 0.5, ""einheit"": ""stange""}","{""zutat"": ""Lauch"", ""eigenschaft"": ""Stange""}",0.5,pieces
+705,705,zitrone,1 spr,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zitrone"", ""eigenschaft"": ""spr""}",1.0,pieces
+706,706,ei,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",1.0,pieces
+707,707,pilze,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Pilz""}",200.0,g
+708,708,gemüsefond,150 ml,"{""volumen"": 150, ""einheit"": ""ml""}","{""zutat"": ""Fond"", ""eigenschaft"": ""gem\u00fcse""}",0.15,l
+709,709,peperoni,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Peperoni""}",1.0,pieces
+710,710,tomatenmark,3 tl,"{""volumen"": 3, ""einheit"": ""tl""}","{""zutat"": ""Tomatenmark""}",0.015,l
+711,711,curry,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Curry""}",0.01,l
+712,712,butter,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Butter""}",0.03,l
+713,713,sahne,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fl\u00fcssig""}",0.2,l
+714,714,paprikapulver,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""Pulver""}",0.01,l
+715,715,knoblauch frisch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""frisch""}",1.0,pieces
+716,716,paprika gelb,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""gelb""}",1.0,pieces
+717,717,cous cous,1 beutel,"{""anzahl"": 1, ""einheit"": ""beutel""}","{""zutat"": ""Couscous""}",1.0,pieces
+718,718,wasser kochend,150 ml,"{""volumen"": 150, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""kochend""}",0.15,l
+719,719,feta gewürfelt,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Feta"", ""eigenschaft"": ""gew\u00fcrfelt""}",100.0,g
+720,720,lauchzwiebel frisch,0.5 bund,"{""anzahl"": 0.5, ""einheit"": ""bund""}","{""zutat"": ""Lauchzwiebel"", ""eigenschaft"": ""frisch""}",0.5,pieces
+721,721,cocktailtomaten,10 stk.,"{""anzahl"": 10, ""einheit"": ""stk.""}","{""zutat"": ""Cocktailtomate"", ""eigenschaft"": ""cocktail""}",10.0,pieces
+722,722,oliven schwarz,10 stk.,"{""anzahl"": 10, ""einheit"": ""stk.""}","{""zutat"": ""Olive"", ""eigenschaft"": ""schwarz""}",10.0,pieces
+723,723,olivenöl extra vergine,3 teelöffel,"{""anzahl"": 3, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""extra vergine""}",0.015,l
+724,724,zitronensaft,2 teelöffel,"{""anzahl"": 2, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""Zitronensaft""}",0.01,l
+725,725,honig flüssig,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Honig"", ""eigenschaft"": ""fl\u00fcssig""}",0.005,l
+726,726,curcuma    gelbwurz,3 teelöffel,"{""anzahl"": 3, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""3""}",0.015,l
+727,727,minze gehackt,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Minze"", ""eigenschaft"": ""gehackt""}",0.015,l
+728,728,chicoree frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Chicor\u00e9e"", ""eigenschaft"": ""frisch""}",1.0,pieces
+729,729,cocktailtomaten,15 stk.,"{""anzahl"": 15, ""einheit"": ""stk.""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""Cocktail""}",15.0,pieces
+730,730,lauchzwiebeln frisch,1 bund,"{""anzahl"": 1, ""einheit"": ""bund""}","{""zutat"": ""Lauchzwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+731,731,minze gehackt,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Minze"", ""eigenschaft"": ""gehackt""}",0.015,l
+732,732,mozzarella minis,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Mozzarella"", ""eigenschaft"": ""mini""}",100.0,g
+733,733,orange,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Orange"", ""eigenschaft"": ""orange""}",1.0,pieces
+734,734,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+735,735,olivenöl extra vergine,3 esslöffel,"{""anzahl"": 3, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""extra vergine""}",0.045,l
+736,736,essig,1 ½ esslöffel,"{""volumen"": ""1 \u00bd"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essig""}",0.0225,l
+737,737,kichererbsen-salat,1 schüssel,"{""anzahl"": 1, ""einheit"": ""Sch\u00fcssel""}","{""zutat"": ""Sch\u00fcssel"", ""eigenschaft"": ""kichererbsen-""}",1.0,pieces
+738,738,hackfleisch gemischt,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Hackfleisch"", ""eigenschaft"": ""gemischt""}",500.0,g
+739,739,toastbrot ohne rinde,2 scheiben,"{""anzahl"": 2, ""einheit"": ""Scheiben""}","{""zutat"": ""Toastbrot"", ""eigenschaft"": ""ohne Rinde""}",2.0,pieces
+740,740,zucchini,1 kleinere,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zucchini"", ""eigenschaft"": ""kleiner""}",1.0,pieces
+741,741,spitzpaprika rot,1 mittelgrosse,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""spitz""}",1.0,pieces
+742,742,ei,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",1.0,pieces
+743,743,zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+744,744,rhabarber frisch,600 g,"{""gewicht"": 600, ""einheit"": ""g""}","{""zutat"": ""Rhabarber"", ""eigenschaft"": ""frisch""}",600.0,g
+745,745,orangen,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Orange"", ""eigenschaft"": ""orange""}",4.0,pieces
+746,746,gelierzucker  - ,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""gelier""}",1.0,pieces
+747,747,vanilleschote,0.25 stk.,"{""anzahl"": 0.25, ""einheit"": ""stk.""}","{""zutat"": ""Vanilleschote""}",0.25,pieces
+748,748,rhabarber frisch,4 stangen,"{""anzahl"": 4, ""einheit"": ""stangen""}","{""zutat"": ""Rhabarber"", ""eigenschaft"": ""frisch""}",4.0,pieces
+749,749,magerquark,700 g,"{""gewicht"": 700, ""einheit"": ""g""}","{""zutat"": ""Quark"", ""eigenschaft"": ""mager""}",700.0,g
+750,750,frischkäse    ,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""frisch""}",100.0,g
+751,751,eier,3 gr l,"{""gewicht"": 3, ""einheit"": ""gr""}","{""zutat"": ""Ei"", ""eigenschaft"": ""roh""}",3.0,g
+752,752,weinsteinbackpulver,0.5 pck,"{""anzahl"": 0.5, ""einheit"": ""pck""}","{""zutat"": ""Backpulver"", ""eigenschaft"": ""Weinstein""}",0.5,pieces
+753,753,johannisbrotkernmehl,8 g,"{""gewicht"": 8, ""einheit"": ""g""}","{""zutat"": ""Johannisbrotkernmehl""}",8.0,g
+754,754,xylit oder sukrin,85 g,"{""gewicht"": 85, ""einheit"": ""g""}","{""zutat"": ""Xylit""}",85.0,g
+755,755,geriebene vanille,prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Vanille"", ""eigenschaft"": ""gerieben""}",0.0005,l
+756,756,rinderfilet oder roastbeef,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Rinderfilet"", ""eigenschaft"": ""roh""}",300.0,g
+757,757,kokosmilch ungesüßt,400 ml,"{""volumen"": 400, ""einheit"": ""ml""}","{""zutat"": ""Kokosmilch"", ""eigenschaft"": ""unges\u00fc\u00dft""}",0.4,l
+758,758,rinderfond,400 ml,"{""volumen"": 400, ""einheit"": ""ml""}","{""zutat"": ""Rinderfond"", ""eigenschaft"": ""fl\u00fcssig""}",0.4,l
+759,759,zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+760,760,knoblauchzehe,1,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Knoblauchzehe""}",1.0,pieces
+761,761,ingwer,1 stck,"{""anzahl"": 1, ""einheit"": ""stck""}","{""zutat"": ""Ingwer"", ""eigenschaft"": ""frisch""}",1.0,pieces
+762,762,currypaste gelb,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Currypaste"", ""eigenschaft"": ""gelb""}",0.01,l
+763,763,feta,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Feta""}",200.0,g
+764,764,ei,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",1.0,pieces
+765,765,pankomehl,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""Pankomehl""}",0.045,l
+766,766,mehl,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Mehl""}",0.03,l
+767,767,weizenmehl oder dinkelmehl,450 gr.,"{""gewicht"": 450, ""einheit"": ""gr""}","{""zutat"": ""Weizenmehl"", ""eigenschaft"": ""wei\u00df""}",450.0,g
+768,768,haferflocken,170 gr.,"{""gewicht"": 170, ""einheit"": ""gr""}","{""zutat"": ""Haferflocke""}",170.0,g
+769,769,geriebener emmentaler,100 gr.,"{""gewicht"": 100, ""einheit"": ""gr""}","{""zutat"": ""Emmentaler"", ""eigenschaft"": ""gerieben""}",100.0,g
+770,770,olivenöl,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""oliven""}",0.03,l
+771,771,knoblauchzehen gepresst,2,"{""anzahl"": 2, ""einheit"": ""Zehen""}","{""zutat"": ""Knoblauchzehe"", ""eigenschaft"": ""gepresst""}",2.0,pieces
+772,772,wasser,250 ml.,"{""volumen"": 250, ""einheit"": ""ml""}","{""zutat"": ""Wasser""}",0.25,l
+773,773,kürbiskerne ohne schale gehackt,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Kern"", ""eigenschaft"": ""K\u00fcrbis""}",0.03,l
+774,774,eier,3,"{""anzahl"": 3, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",3.0,pieces
+775,775,mehl,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Mehl""}",200.0,g
+776,776,gries,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Grie\u00df""}",100.0,g
+777,777,olivenöl extra vergine,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""extra vergine""}",0.045,l
+778,778,salz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""Prise""}",0.0005,l
+779,779,ricotta,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Ricotta""}",250.0,g
+780,780,spinat frisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Spinat"", ""eigenschaft"": ""frisch""}",500.0,g
+781,781,tomaten,1 dose,"{""anzahl"": 1, ""einheit"": ""dose""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""gedost""}",1.0,pieces
+782,782,schmand,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Schmand"", ""eigenschaft"": ""sahnig""}",50.0,g
+783,783,zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+784,784,emmentaler gerieben,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Emmentaler"", ""eigenschaft"": ""gerieben""}",100.0,g
+785,785,knoblauch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""Knoblauch""}",1.0,pieces
+786,786,fleischkäse einfach,800 g,"{""gewicht"": 800, ""einheit"": ""g""}","{""zutat"": ""Fleischk\u00e4se"", ""eigenschaft"": ""einfach""}",800.0,g
+787,787,zwiebeln,5,"{""anzahl"": 5, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",5.0,pieces
+788,788,tomatenmark,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Tomatenmark""}",0.03,l
+789,789,bratenfond,400 ml,"{""volumen"": 400, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""ml""}",0.4,l
+790,790,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
+791,791,pimentkörner,5,"{""anzahl"": 5, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",5.0,pieces
+792,792,lorbeerblatt,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Lorbeerblatt""}",1.0,pieces
+793,793,kichererbsen,1 dose,"{""anzahl"": 1, ""einheit"": ""dose""}","{""zutat"": ""Kichererbse"", ""eigenschaft"": ""in Dose""}",1.0,pieces
+794,794,eigelb,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Eigelb""}",1.0,pieces
+795,795,semmelbrösel,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Semmelbr\u00f6sel""}",0.03,l
+796,796,backpulver,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Backpulver""}",0.005,l
+797,797,zwiebel,1 kleine,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""klein""}",1.0,pieces
+798,798,knoblauch frisch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Knoblauch"", ""eigenschaft"": ""frisch""}",1.0,pieces
+799,799,sesam frisch,1 hand,"{""anzahl"": 1, ""einheit"": ""hand""}","{""zutat"": ""Sesam"", ""eigenschaft"": ""frisch""}",1.0,pieces
+800,800,biozitronen zumindest alsbio gekauft ,5 stück,"{""anzahl"": 5, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zitrone"", ""eigenschaft"": ""bio""}",5.0,pieces
+801,801,ingwer frisch,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ingwer"", ""eigenschaft"": ""frisch""}",1.0,pieces
+802,802,zitronenmelisse frisch,3 zweige,"{""anzahl"": 3, ""einheit"": ""zweige""}","{""zutat"": ""Zweig"", ""eigenschaft"": ""frisch""}",3.0,pieces
+803,803,stevia flüssig,20 ml,"{""volumen"": 20, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.02,l
+804,804,gelierzucker  - ,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""Gelierzucker""}",0.045,l
+805,805,ananassaft - ein guter ohnezucker kostet ca    euro,0.4 liter,"{""volumen"": 0.4, ""einheit"": ""liter""}","{""zutat"": ""Ananassaft"", ""eigenschaft"": ""ohnezucker""}",0.4,l
+806,806,mehl,220 g,"{""gewicht"": 220, ""einheit"": ""g""}","{""zutat"": ""Mehl""}",220.0,g
+807,807,hefe,0.5 würfel,"{""anzahl"": 0.5, ""einheit"": ""W\u00fcrfel""}","{""zutat"": ""Hefe"", ""eigenschaft"": ""w\u00fcrfelig""}",0.5,pieces
+808,808,wasser lauwarm,150 ml,"{""volumen"": 150, ""einheit"": ""ml""}","{""zutat"": ""Wasser"", ""eigenschaft"": ""lauwarm""}",0.15,l
+809,809,salz,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Salz""}",0.005,l
+810,810,rinderhackfleisch,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Hackfleisch"", ""eigenschaft"": ""Rind""}",300.0,g
+811,811,tomaten,1 dose,"{""anzahl"": 1, ""einheit"": ""Dose""}","{""zutat"": ""Tomate"", ""eigenschaft"": ""gedost""}",1.0,pieces
+812,812,paprika edelsüß,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""edels\u00fc\u00df""}",0.015,l
+813,813,kreuzkümmel gemahlen,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Kreuzk\u00fcmmel"", ""eigenschaft"": ""gemahlen""}",0.005,l
+814,814,zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+815,815,knoblauch frisch,2 zehen,"{""anzahl"": 2, ""einheit"": ""Zehen""}","{""zutat"": ""Knoblauch"", ""eigenschaft"": ""frisch""}",2.0,pieces
+816,816,peperoni,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Peperoni""}",1.0,pieces
+817,817,paprikapaste,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Paprikapaste""}",0.03,l
+818,818,blätterteig,1 mal,"{""anzahl"": 1, ""einheit"": ""mal""}","{""zutat"": ""Bl\u00e4tterteig""}",1.0,pieces
+819,819,ziegenfrischkäse-pralinen,1 mal,"{""anzahl"": 1, ""einheit"": ""mal""}","{""zutat"": ""Ziehenfrischk\u00e4se"", ""eigenschaft"": ""frisch""}",1.0,pieces
+820,820,fenchel,1 knolle,"{""anzahl"": 1, ""einheit"": ""knolle""}","{""zutat"": ""Fenchel"", ""eigenschaft"": ""knollig""}",1.0,pieces
+821,821,rote zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""rot""}",1.0,pieces
+822,822,sojasoße,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Sojasauce""}",0.015,l
+823,823,essig,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Essig""}",0.03,l
+824,824,walnußöl,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Walnuss""}",0.045,l
+825,825,h-milch,130 ml,"{""volumen"": 130, ""einheit"": ""ml""}","{""zutat"": ""Milch"", ""eigenschaft"": ""h""}",0.13,l
+826,826,ei verquirlt,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""verquirlt""}",1.0,pieces
+827,827,grieß,65 g,"{""gewicht"": 65, ""einheit"": ""g""}","{""zutat"": ""Grie\u00df""}",65.0,g
+828,828,butter geschmolzen,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Butter"", ""eigenschaft"": ""geschmolzen""}",0.01,l
+829,829,pfeffer,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""Prise""}",0.0005,l
+830,830,salz,2 msp,"{""anzahl"": 2, ""einheit"": ""msp"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.001,l
+831,831,petersilie gewürz,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Petersilie"", ""eigenschaft"": ""gew\u00fcrzt""}",0.005,l
+832,832,hackfleisch gemischt,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Hackfleisch"", ""eigenschaft"": ""gemischt""}",500.0,g
+833,833,weißkohl frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Wei\u00dfkohl"", ""eigenschaft"": ""frisch""}",1.0,pieces
+834,834,bratenfond,800 ml,"{""volumen"": 800, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""fl\u00fcssig""}",0.8,l
+835,835,lorbeerblatt,3,"{""anzahl"": 3, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Lorbeerblatt""}",3.0,pieces
+836,836,pimentkörner,7,"{""anzahl"": 7, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",7.0,pieces
+837,837,zwiebel gewürfelt,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,pieces
+838,838,tomatenmark,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Tomatenmark""}",0.015,l
+839,839,biozitronen ca    g -zumnindest als bio gekauft ,4 stück,"{""anzahl"": 4, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zitrone"", ""eigenschaft"": ""bio""}",4.0,pieces
+840,840,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,l
+841,841,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,pieces
+842,842,große feste mangos - nettoca    -   g,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Mango"", ""eigenschaft"": ""fest""}",2.0,pieces
+843,843,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,l
+844,844,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,pieces
+845,845,toastbrot,4 scheiben,"{""anzahl"": 4, ""einheit"": ""scheiben""}","{""zutat"": ""Toastbrot"", ""eigenschaft"": ""geschnitten""}",4.0,pieces
+846,846,schmand,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Schmand""}",0.25,l
+847,847,zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+848,848,käse,4 scheiben,"{""anzahl"": 4, ""einheit"": ""scheiben""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""Scheibe""}",4.0,pieces
+849,849,rinderhackfleisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Hackfleisch"", ""eigenschaft"": ""Rind""}",500.0,g
+850,850,gorgonzola,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Gorgonzola""}",200.0,g
+851,851,blattspinat,1 pck,"{""anzahl"": 1, ""einheit"": ""pck""}","{""zutat"": ""Spinat"", ""eigenschaft"": ""blatt""}",1.0,pieces
+852,852,spirelli,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Spirelli""}",400.0,g
+853,853,zwiebel,150,"{""anzahl"": 150, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",150.0,pieces
+854,854,knoblauch,2 zehen,"{""anzahl"": 2, ""einheit"": ""Zehen""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""Knoblauch""}",2.0,pieces
+855,855,käse gerieben,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""K\u00e4se"", ""eigenschaft"": ""gerieben""}",100.0,g
+856,856,sahne,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""fl\u00fcssig""}",0.2,l
+857,857,eier,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Ei""}",2.0,pieces
+858,858,quinoa,1 tasse,"{""volumen"": 1, ""einheit"": ""tasse""}","{""zutat"": ""Quinoa""}",0.25,l
+859,859,gemüsebrühe,2 tassen,"{""volumen"": 2, ""einheit"": ""tassen""}","{""zutat"": ""Gem\u00fcsebr\u00fche""}",2.0,l
+860,860,paprika rot,0.5,"{""anzahl"": 0.5, ""einheit"": ""St\u00fcck"", ""zutat"": ""paprika rot""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""rot""}",0.5,pieces
+861,861,kurkuma gewürz gemahlen,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Kurkuma"", ""eigenschaft"": ""gemahlen""}",0.005,l
+862,862,zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel""}",1.0,pieces
+863,863,knoblauch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""Knoblauch""}",1.0,pieces
+864,864,fenchelsamen frisch gemahlen,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Fenchelsamen""}","{""zutat"": ""Fenchelsame"", ""eigenschaft"": ""gemahlen""}",0.0005,l
+865,865,koriander frisch gemahlen,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Koriander"", ""eigenschaft"": ""gemahlen""}",0.0005,l
+866,866,camembert doppelrahmstufe,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Camembert"", ""eigenschaft"": ""doppelrahm""}",250.0,g
+867,867,frischkäse doppelrahmstufe,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""Doppelrahmstufe""}",150.0,g
+868,868,zwiebel,1 kleine,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""klein""}",1.0,pieces
+869,869,bier,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""Bier"", ""eigenschaft"": ""Schuss""}",1.0,l
+870,870,butter weich,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Butter"", ""eigenschaft"": ""weich""}",50.0,g
+871,871,schwarzwurzel frisch,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Schwarzwurzel"", ""eigenschaft"": ""frisch""}",400.0,g
+872,872,gemüsefond,800 mg,"{""gewicht"": 800, ""einheit"": ""mg""}","{""zutat"": ""Fond"", ""eigenschaft"": ""gem\u00fcse""}",0.8,g
+873,873,sahne,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}","{""zutat"": ""Sahne""}",0.2,l
+874,874,zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""frisch""}",1.0,pieces
+875,875,knoblauch frisch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}","{""zutat"": ""Zehe"", ""eigenschaft"": ""frisch""}",1.0,pieces
+876,876,zitrone frisch,0.5,"{""anzahl"": 0.5, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zitrone"", ""eigenschaft"": ""frisch""}",0.5,pieces
+877,877,rote bete gekocht,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Rote Bete"", ""eigenschaft"": ""gekocht""}",1.0,pieces
+878,878,rucola,0.25 bündel,"{""anzahl"": 0.25, ""einheit"": ""b\u00fcndel""}","{""zutat"": ""Rucola"", ""eigenschaft"": ""b\u00fcndel""}",0.25,pieces
+879,879,kopfsalat frisch,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Kopfsalat"", ""eigenschaft"": ""frisch""}",100.0,g
+880,880,carmine   chicoree rot,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Chicoree"", ""eigenschaft"": ""rot""}",1.0,pieces
+881,881,champignons frisch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Champignon"", ""eigenschaft"": ""frisch""}",1.0,pieces
+882,882,zwiebel,0.125 stk.,"{""anzahl"": 0.125, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel""}",0.125,pieces
+883,883,trauben grün kernlos,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Traube"", ""eigenschaft"": ""kernlos""}",6.0,pieces
+884,884,kumquats frisch,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Kumquat"", ""eigenschaft"": ""frisch""}",4.0,pieces
+885,885,karotte,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte""}",0.5,pieces
+886,886,radieschen frisch,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}","{""zutat"": ""Radieschen"", ""eigenschaft"": ""frisch""}",3.0,pieces
+887,887,schmand,1 ½ esslöffel,"{""volumen"": ""1 \u00bd"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Schmand""}",0.0225,l
+888,888,wasser,3 esslöffel,"{""volumen"": 3, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essl\u00f6ffel"", ""eigenschaft"": ""Wasser""}",0.045,l
+889,889,alaska-seelachsfilet imbackteig,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Seelachsfilet"", ""eigenschaft"": ""im Backteig""}",2.0,pieces
+890,890,butterschmalz,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.015,l
+891,891,küchentuch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchentuch"", ""eigenschaft"": ""St\u00fcck""}",1.0,pieces
+892,892,rote linsen,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Linse"", ""eigenschaft"": ""rot""}",200.0,g
+893,893,gemüsebrühe,650 ml,"{""volumen"": 650, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche"", ""eigenschaft"": ""gemischt""}",0.65,l
+894,894,mohrrübe gegart,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Mohrr\u00fcbe"", ""eigenschaft"": ""gegart""}",50.0,g
+895,895,porree gegart,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Porree"", ""eigenschaft"": ""gegart""}",50.0,g
+896,896,sellerieknolle gegart,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Sellerieknolle"", ""eigenschaft"": ""gegart""}",50.0,g
+897,897,broccoli gegart,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Brokkoli"", ""eigenschaft"": ""gegart""}",30.0,g
+898,898,spitzpaprika rot,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Spitzpaprika"", ""eigenschaft"": ""rot""}",30.0,g
+899,899,kräuter der saison,1 el,"{""volumen"": ""1"", ""einheit"": ""el""}","{""zutat"": ""Kraut"", ""eigenschaft"": ""saisonal""}",0.015,l
+900,900,meersalz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Meersalz""}","{""zutat"": ""Prise"", ""eigenschaft"": ""Meer""}",0.0005,l
+901,901,cayenne,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Cayenne"", ""eigenschaft"": ""Prise""}",0.0005,l
+902,902,norderneyer seeluftschinken,6 stück,"{""anzahl"": 6, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Schinken"", ""eigenschaft"": ""seeluft""}",6.0,pieces
+903,903,radieschen,6 stück,"{""anzahl"": 6, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Radieschen""}",6.0,pieces
+904,904,speiseöl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Speise\u00f6l""}",0.015,l
+905,905,weinessig,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Essig"", ""eigenschaft"": ""wei\u00df""}",0.005,l
+906,906,milch,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}","{""zutat"": ""Milch"", ""eigenschaft"": ""1 Liter""}",1.0,l
+907,907,milchreis,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Milchreis""}",250.0,g
+908,908,salz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""Prise""}",0.0005,l
+909,909,zucker,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Zucker""}",0.03,l
