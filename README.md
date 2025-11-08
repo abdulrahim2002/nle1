@@ -6,10 +6,8 @@ quantities in standard units (i.e. liters, grams, pieces)
 
 For example, we have:
 
------
 | abdul|rahim |
------------
-| khan | is |
------
+|------|----- |
+| okay | laurez |
 
 
