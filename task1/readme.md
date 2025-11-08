@@ -13,9 +13,7 @@ observations in the data file!
 
 ### Description
 
-### Task 1 
-
-is about obtaining structured data from unstructured data. We are
+the task is about obtaining structured data from unstructured data. We are
 provided with `ingridient` and `quantity`. We need to normalize all
 quantities in standard units (i.e. liters, grams, pieces)
 
