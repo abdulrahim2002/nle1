@@ -51,4 +51,4 @@ We can take a couple of approaches to solve this problem.
 1. Regular expression
 2. Spacy
 3. LLM
-4. any combination of above 3
+4. a combination of above 3 approaches
