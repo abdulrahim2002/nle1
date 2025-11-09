@@ -5,18 +5,19 @@ data (see columns *amount* and *ingredient*) with an LLM:
 
 #### For Ingredient Extraction
 
-Your task is to identify cooking ingredients in texts and output them in the nominative singular.  
+```
+Your task is to identify cooking ingredients in texts and output them in the nominative singular.
 If characteristics such as color, condition, processing, quality, or origin are mentioned for an ingredient, output these characteristics in the German basic form as well.
 
-1. Please generate a JSON array for the output.  
+1. Please generate a JSON array for the output.
 2. Always use `zutat` as the key for the ingredient and `eigenschaft`
-   for all properties. If none is mentioned, do not use this key.  
+   for all properties. If none is mentioned, do not use this key.
 3. If an ingredient has more than one property, still only name the key
-   `zutat` once.  
+   `zutat` once.
 
-**Example:**  
-**Input:** `garnelen frisch groß`  
-**Output:**  
+**Example:**
+**Input:** `garnelen frisch groß`
+**Output:**
 
 ```
 {
@@ -27,9 +28,11 @@ If characteristics such as color, condition, processing, quality, or origin are 
 
 
 Now identify the ingredients in this text: `{ingr}`
+```
 
 #### For Amount Extraction
 
+```
 Your task is to identify quantities, weights, and volumes in cooking
 ingredients in texts.
 
@@ -43,7 +46,10 @@ ingredients in texts.
 
 Now identify quantities, weights, and volumes in this text: `{amount}`
 
+```
+
 ---
+
 
 - Analyze the log file from Task 2 to identify patterns in raw input
   that are not processed correctly with the current prompts.
