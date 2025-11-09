@@ -30,9 +30,9 @@ For example, we have:
 For this data, we need to find the normalized quantities.
 
 | ingredient | normalized amount |
-| --- | --- |
-| paprika | 150 g |
-| zucker | 0.014 liter |
+| ---        | ---               |
+| paprika    | 150 g             |
+| zucker     | 0.014 liter       |
 
 Note that we must use some approximate measures for ambigous quantities
 like `stück (slice), glas (glass), table spoon, tea spoon, etwas
