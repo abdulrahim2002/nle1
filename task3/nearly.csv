@@ -1,0 +1,456 @@
+Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_unit,nutrition,ingr_json
+15,bio hähnchenschlegel,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""H\u00e4hnchenschlegel"", ""eigenschaft"": ""bio""}",4.0,stück,,"```json
+{
+    ""ingredient"": ""Hähnchen"",
+    ""properties"": [""Bio""]
+}
+```"
+31,schokoriegel,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Schokoriegel""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Schokoriegel""
+}
+```"
+32,amarettini mandelkeksezerstoßen,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Amarettini"", ""eigenschaft"": ""zersto\u00dfen""}",0.03,liter,,"```json
+{
+    ""ingredient"": ""Amarettini"",
+    ""properties"": [""zerstoßen""]
+}
+``` 
+and 
+```json
+{
+    ""ingredient"": ""Mandelkeks"",
+    ""properties"": [""zerstoßen""]
+}
+```"
+33,deko schirmchen,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Schirmchen"", ""eigenschaft"": ""Deko""}",2.0,stück,,None
+40,chilisoße  sambal oelek ,0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""Chiliso\u00dfe"", ""eigenschaft"": ""Sambal Oelek""}",0.0025,liter,,"```json
+{
+    ""ingredient"": ""Chilisauce"",
+    ""properties"": []
+}
+```
+and 
+```json
+{
+    ""ingredient"": ""Sambal Oelek"",
+    ""properties"": []
+}
+```"
+46,orangenabrieb,1 teelöffel,"{""volumen"": ""1"", ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""orange""}",0.005,liter,,"```json
+{
+    ""ingredient"": ""Orange"",
+    ""properties"": [""abgerieben""]
+}
+```"
+52,datteltomaten,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Datteltomate"", ""eigenschaft"": ""ganz""}",4.0,stück,,"```json
+{
+    ""ingredient"": ""Tomate"",
+    ""properties"": [""Dattel-""]
+}
+```"
+65,riesling trocken,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Riesling"", ""eigenschaft"": ""trocken""}",0.1,liter,,"```json
+{
+    ""ingredient"": ""Riesling"",
+    ""properties"": [""trocken""]
+}
+```"
+103,schinkenwürfel,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Schinkenw\u00fcrfel""}",250.0,g,,"```json
+{
+    ""ingredient"": ""Schinken"",
+    ""properties"": [""gewürfelt""]
+}
+```"
+127,asiatische fischsoße,1 el,"{""volumen"": ""1"", ""einheit"": ""el""}","{""zutat"": ""Fischso\u00dfe"", ""eigenschaft"": ""asiatisch""}",0.015,liter,,"```
+{
+    ""ingredient"": ""Fischsauce"",
+    ""properties"": [""asiatisch""]
+}
+```"
+142,brunch,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Becher"", ""eigenschaft"": ""Brunch""}",0.25,liter,,None
+155,reibekäse,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Reibek\u00e4se""}",50.0,g,,"```json
+{
+    ""ingredient"": ""Käse"",
+    ""properties"": [""gereibt""]
+}
+```"
+158,bauerngurken,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bauergurke"", ""eigenschaft"": ""St\u00fcck""}",2.0,stück,,"```json
+{
+    ""ingredient"": ""Gurke"",
+    ""properties"": [""Bauer-""]
+}
+```"
+181,bratwurstbrät,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Bratwurstbr\u00e4t""}",200.0,g,,"```json
+{
+    ""ingredient"": ""Bratwurstbrät"",
+    ""properties"": []
+}
+``` 
+Since there are no properties like color, condition or origin mentioned for Bratwurstbrät in the given text and also ""Bratwurstbrät"" can't be translated to a supergroup I left it as is. But if we consider ""Fleisch"" (meat) as its basic supergroup:
+```json
+{
+    ""ingredient"": ""Fleisch"",
+    ""properties"": []
+}
+```
+Please let me know which one you prefer!"
+247,bisquits rund,6 stück,"{""anzahl"": 6, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bisquit"", ""eigenschaft"": ""rund""}",6.0,stück,,"```json
+{
+    ""ingredient"": ""Bisquit"",
+    ""properties"": [""rund""]
+}
+```"
+256,spargelstangen weiß,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spargelstange"", ""eigenschaft"": ""wei\u00df""}",2.0,stück,,"```json
+{
+    ""ingredient"": ""Spargel"",
+    ""properties"": [""weiß""]
+}
+```"
+260,putengeschnetzeltes,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Geschnetzeltes"", ""eigenschaft"": ""Puten-""}",200.0,g,,"```json
+{
+    ""ingredient"": ""Pute"",
+    ""properties"": [""geschnetzeltes""]
+}
+```"
+279,salsa-sauce,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""Salsa-Sauce""}",0.06,liter,,"```json
+{
+    ""ingredient"": ""Salsa"",
+    ""properties"": [""sauce""]
+}
+```"
+291,eiweißbrot,2 scheiben,"{""anzahl"": 2, ""einheit"": ""scheiben""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Eiwei\u00df""}",2.0,stück,,"```json
+{
+    ""ingredient"": ""Brot"",
+    ""properties"": [""Eiweiß""]
+}
+```"
+307,ebly,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Ebly""}",120.0,g,,"Since ""Ebly"" is a type of wheat, I'll use the basic supergroup for that ingredient.
+
+
+```json
+{
+    ""ingredient"": ""Weizen"",
+    ""properties"": []
+}
+```"
+309,sojasoße dunkel,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""dunkel""}",0.02,liter,,"```json
+{
+    ""ingredient"": ""Sojasoße"",
+    ""properties"": [""dunkel""]
+}
+```"
+317,agavensirup,2 tropfen,"{""anzahl"": 2, ""einheit"": ""tropfen""}","{""zutat"": ""Tropfen"", ""eigenschaft"": ""Agavensirup""}",0.0001,liter,,"```json
+{
+    ""ingredient"": ""Agavensirup"",
+    ""properties"": []
+}
+```"
+331,mangoldblätter rot,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Mangoldblatt"", ""eigenschaft"": ""rot""}",50.0,g,,"```json
+{
+    ""ingredient"": ""Mangold"",
+    ""properties"": [""rot""]
+}
+```"
+351,sellerieknolle grobgewürfelt,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Sellerieknolle"", ""eigenschaft"": ""grob""}",50.0,g,,"```json
+{
+    ""ingredient"": ""Sellerie"",
+    ""properties"": [""grob gewürfelt""]
+}
+```"
+400,eiweißbrot,2 scheiben,"{""anzahl"": 2, ""einheit"": ""Scheiben""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Eiwei\u00dfbrot""}",2.0,stück,,"```json
+{
+    ""ingredient"": ""Brot"",
+    ""properties"": [""Eiweiß""]
+}
+```"
+402,thymianzweig,1,"{""anzahl"": 1, ""einheit"": ""Zweig""}","{""zutat"": ""Thymianzweig""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Thymian"",
+    ""properties"": [""Zweig""]
+}
+```"
+429,prinzessbohnen gewürfelt,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Prinzessbohne"", ""eigenschaft"": ""gew\u00fcrfelt""}",60.0,g,,"```json
+{
+    ""ingredient"": ""Prinzessbohne"",
+    ""properties"": [""gewürfelt""]
+}
+```"
+463,selleriestange,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Selleriestange""}",6.0,stück,,"```json
+{
+    ""ingredient"": ""Sellerie"",
+    ""properties"": [""Stange""]
+}
+```"
+464,wurzelgemüse,800 gramm,"{""gewicht"": 800, ""einheit"": ""gramm""}","{""zutat"": ""Wurzelgem\u00fcse""}",800.0,g,,"```json
+{
+    ""ingredient"": ""Wurzegemüse""
+}
+```"
+478,rinderhack,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Rinderhack"", ""eigenschaft"": ""roh""}",250.0,g,,"```json
+{
+    ""ingredient"": ""Rind"",
+    ""properties"": [""gehackt""]
+}
+```"
+491,plaumenschnaps,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Pflaumenschnaps""}",0.02,liter,,"```json
+{
+    ""ingredient"": ""Pflaume"",
+    ""properties"": [""gebrannt""] 
+}
+```"
+496,sobanudeln,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Sobanudel"", ""eigenschaft"": ""200 g""}",200.0,g,,"```json
+{
+    ""ingredient"": ""Sobanudel""
+}
+```"
+499,sojasoße,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""Sojaso\u00dfe""}",0.03,liter,,"```json
+{
+    ""ingredient"": ""Sojasoße"",
+    ""properties"": []
+}
+```"
+500,misopaste hell,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Misopaste"", ""eigenschaft"": ""hell""}",0.03,liter,,"```json
+{
+    ""ingredient"": ""Misopaste"",
+    ""properties"": [""hell""]
+}
+```"
+508,einweckgläser,5 stk.,"{""anzahl"": 5, ""einheit"": ""stk.""}","{""zutat"": ""Einweckglas"", ""eigenschaft"": ""St\u00fcck""}",5.0,stück,,None
+527,minzeblätter,1 hand,"{""anzahl"": 1, ""einheit"": ""hand""}","{""zutat"": ""M\u00fcnzblatt"", ""eigenschaft"": ""hand""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Minze"",
+    ""properties"": [""Blätter""]
+}
+```"
+538,dinkelvollkornmehl,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Dinkelvollkornmehl""}",250.0,g,,"```json
+{
+    ""ingredient"": ""Dinkel"",
+    ""properties"": [""vollkorn"", ""gemahlen""]
+}
+```"
+547,kandisin pulver,10 gramm,"{""gewicht"": 10, ""einheit"": ""gramm""}","{""zutat"": ""Kandisin"", ""eigenschaft"": ""Pulver""}",10.0,g,,"```json
+{
+    ""ingredient"": ""Kandis"",
+    ""properties"": [""Pulver""]
+}
+```"
+559,basilikumblätter,1 hand voll,"{""anzahl"": 1, ""einheit"": ""hand voll""}","{""zutat"": ""Basilikumblatt""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Basilikum"",
+    ""properties"": [""Blätter""]
+}
+```"
+565,küchenmaschine,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchenmaschine""}",1.0,stück,,None
+577,weisskraut,1 kopf,"{""anzahl"": 1, ""einheit"": ""kopf""}","{""zutat"": ""Weiskraut"", ""eigenschaft"": ""wei\u00df""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Kraut"",
+    ""properties"": [""weiß""]
+}
+```"
+605,spitzpaprika rot,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Spitzpaprika"", ""eigenschaft"": ""rot""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Paprika"",
+    ""properties"": [""rot"", ""spitz""]
+}
+```"
+607,gemüsegurkenscheiben,12 stück,"{""anzahl"": 12, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Gem\u00fcsegurke"", ""eigenschaft"": ""geschnitten""}",12.0,stück,,"```json
+{
+    ""ingredient"": ""Gurke"",
+    ""properties"": [""Gemüse""]
+}
+```
+However, since ""Gemüse"" is a category and not really a property of Gurke, a more accurate output would be:
+```json
+{
+    ""ingredient"": ""Gurke""
+}
+```"
+608,zucchinscheiben,8 stück,"{""anzahl"": 8, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zucchinischeibe""}",8.0,stück,,"```json
+{
+    ""ingredient"": ""Zucchini"",
+    ""properties"": [""Scheibe""]
+}
+```"
+642,pankomehl,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Panko"", ""eigenschaft"": ""japanisch""}",100.0,g,,"```json
+{
+    ""ingredient"": ""Mehl"",
+    ""properties"": [""Panko""]
+}
+```"
+643,spieße,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spie\u00df""}",2.0,stück,,None
+645,ebly,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Ebly"", ""eigenschaft"": ""roh""}",100.0,g,,"Since ""Ebly"" is a brand name for a type of bulgur, I will use the basic form of the ingredient.
+
+```json
+{
+    ""ingredient"": ""Bulgur""
+}
+```"
+665,jostabeeren,1600 g,"{""gewicht"": 1600, ""einheit"": ""g""}","{""zutat"": ""Jostabeere"", ""eigenschaft"": ""rot""}",1600.0,g,,"```json
+{
+    ""ingredient"": ""Jostabeere"",
+    ""properties"": []
+}
+```"
+676,zimtrinde  gerieben,1 msp,"{""anzahl"": 1, ""einheit"": ""msp""}","{""zutat"": ""Zimtrinde"", ""eigenschaft"": ""gerieben""}",0.0005,liter,,"```json
+{
+    ""ingredient"": ""Zimt"",
+    ""properties"": [""gerieben""]
+}
+```"
+677,eiswürfel,20 stück,"{""anzahl"": 20, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Eisw\u00fcrfel""}",20.0,stück,,"```json
+{
+    ""ingredient"": ""Eis"",
+    ""properties"": [""gefroren""]
+}
+```"
+679,farfalle,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Farfalle""}",200.0,g,,"```json
+{
+    ""ingredient"": ""Farfalle""
+}
+```"
+692,ebly aus hartweizen,140 g,"{""gewicht"": 140, ""einheit"": ""g""}","{""zutat"": ""Ebly"", ""eigenschaft"": ""aus Hartweizen""}",140.0,g,,"```json
+{
+    ""ingredient"": ""Hartweizen"",
+    ""properties"": [""hart""]
+}
+```"
+697,schlotten,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Schlotte"", ""eigenschaft"": ""St\u00fcck""}",6.0,stück,,"Since ""Schlotten"" is not a well-known ingredient, I will assume it's a typo or an unknown term. However, I found that ""Schlotten"" might be related to ""Schlotter"" or ""Schlotte"", which could refer to a type of fish, specifically the ""Schellfisch"" or ""Dorsch"" (Cod). But without more context, I'll provide a generic response.
+
+
+None"
+702,hirseflocken,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Hirscheflocke""}",0.03,liter,,"```json
+{
+    ""ingredient"": ""Hirse"",
+    ""properties"": [""geflockt""]
+}
+```"
+726,curcuma    gelbwurz,3 teelöffel,"{""anzahl"": 3, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""3""}",0.015,liter,,"```json
+{
+    ""ingredient"": ""Curcuma"",
+    ""properties"": [""gelb""]
+}
+```"
+765,pankomehl,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""Pankomehl""}",0.045,liter,,"```json
+{
+    ""ingredient"": ""Mehl"",
+    ""properties"": [""Pan-""]
+}
+```
+However, since ""Pan-"" is a type of mehl (a specific kind), I will adjust it to be:
+```json
+{
+    ""ingredient"": ""Mehl"",
+    ""properties"": [""Pan-""]
+}
+``` 
+But as per the instruction for using basic supergroup and properties in German basic form, we should use:
+```json
+{
+    ""ingredient"": ""Mehl""
+}
+```"
+789,bratenfond,400 ml,"{""volumen"": 400, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""ml""}",0.4,liter,,"```json
+{
+    ""ingredient"": ""Bratenfond""
+}
+```"
+791,pimentkörner,5,"{""anzahl"": 5, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",5.0,stück,,"```json
+{
+    ""ingredient"": ""Pfeffer"",
+    ""properties"": [""piment""]
+}
+```"
+803,stevia flüssig,20 ml,"{""volumen"": 20, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.02,liter,,"```json
+{
+    ""ingredient"": ""Stevia"",
+    ""properties"": [""flüssig""]
+}
+```"
+817,paprikapaste,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Paprikapaste""}",0.03,liter,,"```json
+{
+    ""ingredient"": ""Paprika"",
+    ""properties"": []
+}
+```"
+833,weißkohl frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Wei\u00dfkohl"", ""eigenschaft"": ""frisch""}",1.0,stück,,"```json
+{
+    ""ingredient"": ""Weißkohl"",
+    ""properties"": [""frisch""]
+}
+```"
+834,bratenfond,800 ml,"{""volumen"": 800, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""fl\u00fcssig""}",0.8,liter,,"Since ""Bratenfond"" is not an ingredient itself but rather a sauce or broth made from various ingredients, and without further context about its composition, it's challenging to identify a specific ingredient. However, understanding that a ""Bratenfond"" typically refers to a gravy or stock resulting from roasting (braten), the primary ingredient we can infer is meat, as this is what is usually roasted and would produce such a fond.
+
+Given the information and following the instructions for output format:
+
+```json
+{
+    ""ingredient"": ""Fleisch"",
+    ""properties"": []
+}
+```
+
+Note: The choice of ""Fleisch"" (meat) as the ingredient is based on the general understanding that Bratenfond originates from meat roasting. If more specific details were provided about the type of meat or properties (like condition, quality, etc.), those could be included in the ""properties"" array."
+836,pimentkörner,7,"{""anzahl"": 7, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",7.0,stück,,"```json
+{
+    ""ingredient"": ""Pfeffer"",
+    ""properties"": [""piment""]
+}
+```
+However, considering ""Piment"" is a type of pepper and ""Körner"" means seeds or grains, a more accurate output would be:
+
+```json
+{
+    ""ingredient"": ""Pfefferkorn"",
+    ""properties"": []
+}
+```"
+840,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,"```json
+{
+    ""ingredient"": ""Stevia"",
+    ""properties"": [""flüssig""]
+}
+```"
+841,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,None
+843,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,"```json
+{
+    ""ingredient"": ""Stevia"",
+    ""properties"": [""flüssig""]
+}
+```"
+844,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,None
+852,spirelli,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Spirelli""}",400.0,g,,"```json
+{
+    ""ingredient"": ""Spirelli"",
+    ""properties"": []
+}
+```"
+889,alaska-seelachsfilet imbackteig,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Seelachsfilet"", ""eigenschaft"": ""im Backteig""}",2.0,stück,,"```json
+{
+    ""ingredient"": ""Lachs"",
+    ""properties"": [""Alaska""]
+}
+```
+Note: I assumed ""imbackteig"" is not an ingredient, but rather a description of the preparation or state of the Lachs (e.g., in pastry dough). If this is incorrect and ""Backteig"" refers to a separate ingredient, please let me know.
+
+Also, note that ""Alaska"" likely refers to the origin of the Lachs. If you would like to categorize it differently, please provide further clarification. 
+
+Additionally, since no characteristics such as color, condition, processing, or quality were mentioned for Backteig in relation to being an ingredient itself and only as a preparation method, I didn't include ""Backteig"" as an ingredient."
+891,küchentuch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchentuch"", ""eigenschaft"": ""St\u00fcck""}",1.0,stück,,None
+896,sellerieknolle gegart,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Sellerieknolle"", ""eigenschaft"": ""gegart""}",50.0,g,,"```json
+{
+    ""ingredient"": ""Sellerie"",
+    ""properties"": [""gegart""]
+}
+```"
+898,spitzpaprika rot,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Spitzpaprika"", ""eigenschaft"": ""rot""}",30.0,g,,"```json
+{
+    ""ingredient"": ""Paprika"",
+    ""properties"": [""rot"", ""spitz""]
+}
+```"
+904,speiseöl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Speise\u00f6l""}",0.015,liter,,"```json
+{
+    ""ingredient"": ""Speiseöl"",
+    ""properties"": []
+}
+```"
