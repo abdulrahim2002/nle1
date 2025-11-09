@@ -46,7 +46,8 @@ As mentioned in this lecture: https://elearning.uni-regensburg.de/mod/url/view.p
 
 We can take a couple of approaches to solve this problem.
 
-1. Regular expression
-2. Spacy
-3. LLM
-4. a combination of above 3 approaches
+Currently, we infer the ingredients and amounts from annotated data provided in `annotated_gemma.csv`
+using rules/dictionaries/regular expression.
+
+If later in the pipeline, we find that our approach is not good enough, then we reprompt the
+llm to identify the amounts and units ourself
