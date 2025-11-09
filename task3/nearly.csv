@@ -3,7 +3,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 31,schokoriegel,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Schokoriegel""}",1.0,stück,,[{'ingredient': 'Schokoriegel'}]
 32,amarettini mandelkeksezerstoßen,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Amarettini"", ""eigenschaft"": ""zersto\u00dfen""}",0.03,liter,,"[{'ingredient': 'Amarettini', 'properties': ['zerstoßen']}, {'ingredient': 'Mandelkeks', 'properties': ['zerstoßen']}, {'ingredients': [{'ingredient': 'Amarettini', 'properties': ['zerstoßen']}, {'ingredient': 'Mandelkeks', 'properties': ['zerstoßen']}]}]"
 33,deko schirmchen,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Schirmchen"", ""eigenschaft"": ""Deko""}",2.0,stück,,[]
-40,chilisoße  sambal oelek ,0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""Chiliso\u00dfe"", ""eigenschaft"": ""Sambal Oelek""}",0.0025,liter,,"[{'ingredient': 'Chili-Sauce', 'properties': []}, {'ingredient': 'Sambal Oelek', 'properties': []}]"
+40,"chilisoße  sambal oelek ",0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""Chiliso\u00dfe"", ""eigenschaft"": ""Sambal Oelek""}",0.0025,liter,,"[{'ingredient': 'Chili-Sauce', 'properties': []}, {'ingredient': 'Sambal Oelek', 'properties': []}]"
 46,orangenabrieb,1 teelöffel,"{""volumen"": ""1"", ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""orange""}",0.005,liter,,"[{'ingredient': 'Orange', 'properties': ['Abrieb']}]"
 52,datteltomaten,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Datteltomate"", ""eigenschaft"": ""ganz""}",4.0,stück,,"[{'ingredient': 'Tomate', 'properties': ['Dattel-']}, {'ingredient': 'Tomate', 'properties': ['Dattel']}]"
 65,riesling trocken,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Riesling"", ""eigenschaft"": ""trocken""}",0.1,liter,,"[{'ingredient': 'Wein', 'properties': ['trocken', 'Riesling']}, {'ingredient': 'Riesling', 'properties': ['trocken']}]"
@@ -63,9 +63,9 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 834,bratenfond,800 ml,"{""volumen"": 800, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""fl\u00fcssig""}",0.8,liter,,[{'ingredient': 'Bratenfond'}]
 836,pimentkörner,7,"{""anzahl"": 7, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",7.0,stück,,"[{'ingredient': 'Pfeffer', 'properties': ['piment']}]"
 840,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,"[{'ingredient': 'Stevia', 'properties': ['flüssig']}]"
-841,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,[]
+841,"gelfix  - ",1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,[]
 843,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,"[{'ingredient': 'Stevia', 'properties': ['flüssig']}]"
-844,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,[]
+844,"gelfix  - ",1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,[]
 852,spirelli,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Spirelli""}",400.0,g,,[{'ingredient': 'Spirelli'}]
 889,alaska-seelachsfilet imbackteig,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Seelachsfilet"", ""eigenschaft"": ""im Backteig""}",2.0,stück,,"[{'ingredient': 'Lachs', 'properties': ['Alaska-']}, {'ingredient': 'Lachs', 'properties': ['Alaska-', 'im Backteig']}]"
 891,küchentuch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchentuch"", ""eigenschaft"": ""St\u00fcck""}",1.0,stück,,[]
