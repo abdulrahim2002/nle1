@@ -1,0 +1,104 @@
+Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_unit,nutrition,status,prompt_used,recognized_name
+15,bio hähnchenschlegel,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""H\u00e4hnchenschlegel"", ""eigenschaft"": ""bio""}",4.0,stück,,unrecognized,4.0 g bio hähnchenschlegel,
+31,schokoriegel,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Schokoriegel""}",1.0,stück,,unrecognized,1.0 g schokoriegel,
+32,amarettini mandelkeksezerstoßen,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Amarettini"", ""eigenschaft"": ""zersto\u00dfen""}",0.03,liter,,unrecognized,0.03 g amarettini mandelkeksezerstoßen,
+33,deko schirmchen,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Schirmchen"", ""eigenschaft"": ""Deko""}",2.0,stück,,unrecognized,2.0 g deko schirmchen,
+40,chilisoße  sambal oelek ,0.5 tl,"{""volumen"": 0.5, ""einheit"": ""tl""}","{""zutat"": ""Chiliso\u00dfe"", ""eigenschaft"": ""Sambal Oelek""}",0.0025,liter,,unrecognized,0.0025 g chilisoße  sambal oelek,
+46,orangenabrieb,1 teelöffel,"{""volumen"": ""1"", ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""orange""}",0.005,liter,,unrecognized,0.005 g orangenabrieb,
+52,datteltomaten,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""Datteltomate"", ""eigenschaft"": ""ganz""}",4.0,stück,,unrecognized,4.0 g datteltomaten,
+65,riesling trocken,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Riesling"", ""eigenschaft"": ""trocken""}",0.1,liter,,unrecognized,0.1 g riesling trocken,
+77,salz aus der mühle,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""aus der M\u00fchle""}",0.0005,liter,,mismatch,0.0005 g salz aus der mühle,salz der muhle
+93,salz grob,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.0005,liter,,no_nutrition,0.0005 g salz grob,salz grob
+103,schinkenwürfel,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Schinkenw\u00fcrfel""}",250.0,g,,unrecognized,250.0 g Schinkenwürfel,
+110,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+127,asiatische fischsoße,1 el,"{""volumen"": ""1"", ""einheit"": ""el""}","{""zutat"": ""Fischso\u00dfe"", ""eigenschaft"": ""asiatisch""}",0.015,liter,,unrecognized,0.015 g asiatische fischsoße,
+142,brunch,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}","{""zutat"": ""Becher"", ""eigenschaft"": ""Brunch""}",0.25,liter,,unrecognized,0.25 g brunch,
+155,reibekäse,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Reibek\u00e4se""}",50.0,g,,unrecognized,50.0 g Reibekäse,
+158,bauerngurken,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bauergurke"", ""eigenschaft"": ""St\u00fcck""}",2.0,stück,,unrecognized,2.0 g bauerngurken,
+181,bratwurstbrät,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Bratwurstbr\u00e4t""}",200.0,g,,unrecognized,200.0 g Bratwurstbrät,
+238,salz und pfeffer,etwas,"{""anzahl"": ""etwas"", ""einheit"": ""Prise"", ""typ"": ""salz""}","{""zutat"": ""Salz""}",0.0005,liter,,no_nutrition,0.0005 g salz und pfeffer,salz und pfeffer
+247,bisquits rund,6 stück,"{""anzahl"": 6, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Bisquit"", ""eigenschaft"": ""rund""}",6.0,stück,,unrecognized,6.0 g bisquits rund,
+256,spargelstangen weiß,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spargelstange"", ""eigenschaft"": ""wei\u00df""}",2.0,stück,,unrecognized,2.0 g spargelstangen weiß,
+260,putengeschnetzeltes,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Geschnetzeltes"", ""eigenschaft"": ""Puten-""}",200.0,g,,unrecognized,200.0 g Geschnetzeltes,
+264,salz und pfeffer,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.0005,liter,,no_nutrition,0.0005 g salz und pfeffer,salz und pfeffer
+279,salsa-sauce,4 el,"{""volumen"": 4, ""einheit"": ""el""}","{""zutat"": ""Salsa-Sauce""}",0.06,liter,,unrecognized,0.06 g salsa-sauce,
+291,eiweißbrot,2 scheiben,"{""anzahl"": 2, ""einheit"": ""scheiben""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Eiwei\u00df""}",2.0,stück,,unrecognized,2.0 g eiweißbrot,
+300,schafskäse,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Schafk\u00e4se""}",200.0,g,,unrecognized,200.0 g Schafkäse,
+307,ebly,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Ebly""}",120.0,g,,unrecognized,120.0 g Ebly,
+309,sojasoße dunkel,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""dunkel""}",0.02,liter,,unrecognized,0.02 g sojasoße dunkel,
+317,agavensirup,2 tropfen,"{""anzahl"": 2, ""einheit"": ""tropfen""}","{""zutat"": ""Tropfen"", ""eigenschaft"": ""Agavensirup""}",0.0001,liter,,unrecognized,0.0001 g agavensirup,
+331,mangoldblätter rot,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Mangoldblatt"", ""eigenschaft"": ""rot""}",50.0,g,,unrecognized,50.0 g Mangoldblatt,
+334,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+351,sellerieknolle grobgewürfelt,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Sellerieknolle"", ""eigenschaft"": ""grob""}",50.0,g,,unrecognized,50.0 g Sellerieknolle,
+358,himalayasalz,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""himalayasalz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""himalaya""}",0.0005,liter,,unrecognized,0.0005 g himalayasalz,
+366,salz,8 g,"{""gewicht"": 8, ""einheit"": ""g""}","{""zutat"": ""Salz""}",8.0,g,,no_nutrition,8.0 g Salz,salz
+377,salz,10 g,"{""gewicht"": 10, ""einheit"": ""g""}","{""zutat"": ""Salz"", ""eigenschaft"": ""fein""}",10.0,g,,no_nutrition,10.0 g Salz,salz
+384,salz,10 g,"{""gewicht"": 10, ""einheit"": ""g""}","{""zutat"": ""Salz""}",10.0,g,,no_nutrition,10.0 g Salz,salz
+400,eiweißbrot,2 scheiben,"{""anzahl"": 2, ""einheit"": ""Scheiben""}","{""zutat"": ""Scheibe"", ""eigenschaft"": ""Eiwei\u00dfbrot""}",2.0,stück,,unrecognized,2.0 g eiweißbrot,
+402,thymianzweig,1,"{""anzahl"": 1, ""einheit"": ""Zweig""}","{""zutat"": ""Thymianzweig""}",1.0,stück,,unrecognized,1.0 g thymianzweig,
+424,salz,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz""}",0.005,liter,,no_nutrition,0.005 g salz,salz
+429,prinzessbohnen gewürfelt,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Prinzessbohne"", ""eigenschaft"": ""gew\u00fcrfelt""}",60.0,g,,unrecognized,60.0 g Prinzessbohne,
+438,salz grob,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+449,salz und pfeffer,1 ½ teelöffel,"{""anzahl"": 1.5, ""einheit"": ""teel\u00f6ffel"", ""zutat"": ""salz""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""halb""}",0.0075,liter,,no_nutrition,0.0075 g salz und pfeffer,salz und pfeffer
+457,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+463,selleriestange,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Selleriestange""}",6.0,stück,,unrecognized,6.0 g selleriestange,
+464,wurzelgemüse,800 gramm,"{""gewicht"": 800, ""einheit"": ""gramm""}","{""zutat"": ""Wurzelgem\u00fcse""}",800.0,g,,unrecognized,800.0 g Wurzelgemüse,
+478,rinderhack,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Rinderhack"", ""eigenschaft"": ""roh""}",250.0,g,,unrecognized,250.0 g Rinderhack,
+491,plaumenschnaps,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Pflaumenschnaps""}",0.02,liter,,unrecognized,0.02 g plaumenschnaps,
+496,sobanudeln,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Sobanudel"", ""eigenschaft"": ""200 g""}",200.0,g,,unrecognized,200.0 g Sobanudel,
+499,sojasoße,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""Sojaso\u00dfe""}",0.03,liter,,unrecognized,0.03 g sojasoße,
+500,misopaste hell,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Misopaste"", ""eigenschaft"": ""hell""}",0.03,liter,,unrecognized,0.03 g misopaste hell,
+508,einweckgläser,5 stk.,"{""anzahl"": 5, ""einheit"": ""stk.""}","{""zutat"": ""Einweckglas"", ""eigenschaft"": ""St\u00fcck""}",5.0,stück,,unrecognized,5.0 g einweckgläser,
+520,chilli rot,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""Chili"", ""eigenschaft"": ""rot""}",1.0,stück,,unrecognized,1.0 g chilli rot,
+527,minzeblätter,1 hand,"{""anzahl"": 1, ""einheit"": ""hand""}","{""zutat"": ""M\u00fcnzblatt"", ""eigenschaft"": ""hand""}",1.0,stück,,unrecognized,1.0 g minzeblätter,
+538,dinkelvollkornmehl,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Dinkelvollkornmehl""}",250.0,g,,unrecognized,250.0 g Dinkelvollkornmehl,
+541,salz,1 ½ tl,"{""anzahl"": 1.5, ""einheit"": ""tl""}","{""zutat"": ""Salz""}",0.0075,liter,,no_nutrition,0.0075 g salz,salz
+547,kandisin pulver,10 gramm,"{""gewicht"": 10, ""einheit"": ""gramm""}","{""zutat"": ""Kandisin"", ""eigenschaft"": ""Pulver""}",10.0,g,,unrecognized,10.0 g Kandisin,
+559,basilikumblätter,1 hand voll,"{""anzahl"": 1, ""einheit"": ""hand voll""}","{""zutat"": ""Basilikumblatt""}",1.0,stück,,unrecognized,1.0 g basilikumblätter,
+561,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+565,küchenmaschine,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchenmaschine""}",1.0,stück,,unrecognized,1.0 g küchenmaschine,
+574,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+577,weisskraut,1 kopf,"{""anzahl"": 1, ""einheit"": ""kopf""}","{""zutat"": ""Weiskraut"", ""eigenschaft"": ""wei\u00df""}",1.0,stück,,unrecognized,1.0 g weisskraut,
+579,salz,1 el,"{""volumen"": 1, ""einheit"": ""el"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.015,liter,,no_nutrition,0.015 g salz,salz
+590,salz grob,1 teelöffel (gestrichen),"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+605,spitzpaprika rot,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Spitzpaprika"", ""eigenschaft"": ""rot""}",1.0,stück,,unrecognized,1.0 g spitzpaprika rot,
+607,gemüsegurkenscheiben,12 stück,"{""anzahl"": 12, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Gem\u00fcsegurke"", ""eigenschaft"": ""geschnitten""}",12.0,stück,,unrecognized,12.0 g gemüsegurkenscheiben,
+608,zucchinscheiben,8 stück,"{""anzahl"": 8, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zucchinischeibe""}",8.0,stück,,unrecognized,8.0 g zucchinscheiben,
+614,salz,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.0005,liter,,no_nutrition,0.0005 g salz,salz
+642,pankomehl,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Panko"", ""eigenschaft"": ""japanisch""}",100.0,g,,unrecognized,100.0 g Panko,
+643,spieße,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spie\u00df""}",2.0,stück,,unrecognized,2.0 g spieße,
+645,ebly,100 g,"{""gewicht"": 100, ""einheit"": ""g""}","{""zutat"": ""Ebly"", ""eigenschaft"": ""roh""}",100.0,g,,unrecognized,100.0 g Ebly,
+653,salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz"", ""eigenschaft"": ""grob""}",0.005,liter,,no_nutrition,0.005 g salz grob,salz grob
+665,jostabeeren,1600 g,"{""gewicht"": 1600, ""einheit"": ""g""}","{""zutat"": ""Jostabeere"", ""eigenschaft"": ""rot""}",1600.0,g,,unrecognized,1600.0 g Jostabeere,
+676,zimtrinde  gerieben,1 msp,"{""anzahl"": 1, ""einheit"": ""msp""}","{""zutat"": ""Zimtrinde"", ""eigenschaft"": ""gerieben""}",0.0005,liter,,unrecognized,0.0005 g zimtrinde  gerieben,
+677,eiswürfel,20 stück,"{""anzahl"": 20, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Eisw\u00fcrfel""}",20.0,stück,,unrecognized,20.0 g eiswürfel,
+679,farfalle,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Farfalle""}",200.0,g,,unrecognized,200.0 g Farfalle,
+692,ebly aus hartweizen,140 g,"{""gewicht"": 140, ""einheit"": ""g""}","{""zutat"": ""Ebly"", ""eigenschaft"": ""aus Hartweizen""}",140.0,g,,unrecognized,140.0 g Ebly,
+697,schlotten,6 stk.,"{""anzahl"": 6, ""einheit"": ""stk.""}","{""zutat"": ""Schlotte"", ""eigenschaft"": ""St\u00fcck""}",6.0,stück,,unrecognized,6.0 g schlotten,
+702,hirseflocken,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Hirscheflocke""}",0.03,liter,,unrecognized,0.03 g hirseflocken,
+726,curcuma    gelbwurz,3 teelöffel,"{""anzahl"": 3, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Teel\u00f6ffel"", ""eigenschaft"": ""3""}",0.015,liter,,unrecognized,0.015 g curcuma    gelbwurz,
+741,spitzpaprika rot,1 mittelgrosse,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""spitz""}",1.0,stück,,unrecognized,1.0 g spitzpaprika rot,
+752,weinsteinbackpulver,0.5 pck,"{""anzahl"": 0.5, ""einheit"": ""pck""}","{""zutat"": ""Backpulver"", ""eigenschaft"": ""Weinstein""}",0.5,stück,,unrecognized,0.5 g weinsteinbackpulver,
+765,pankomehl,3 el,"{""volumen"": 3, ""einheit"": ""el""}","{""zutat"": ""Pankomehl""}",0.045,liter,,unrecognized,0.045 g pankomehl,
+778,salz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""Prise""}",0.0005,liter,,no_nutrition,0.0005 g salz,salz
+789,bratenfond,400 ml,"{""volumen"": 400, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""ml""}",0.4,liter,,unrecognized,0.4 g bratenfond,
+791,pimentkörner,5,"{""anzahl"": 5, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",5.0,stück,,unrecognized,5.0 g pimentkörner,
+803,stevia flüssig,20 ml,"{""volumen"": 20, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.02,liter,,unrecognized,0.02 g stevia flüssig,
+809,salz,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Salz""}",0.005,liter,,no_nutrition,0.005 g salz,salz
+817,paprikapaste,2 el,"{""volumen"": 2, ""einheit"": ""el""}","{""zutat"": ""Paprikapaste""}",0.03,liter,,unrecognized,0.03 g paprikapaste,
+830,salz,2 msp,"{""anzahl"": 2, ""einheit"": ""msp"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.001,liter,,no_nutrition,0.001 g salz,salz
+833,weißkohl frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Wei\u00dfkohl"", ""eigenschaft"": ""frisch""}",1.0,stück,,unrecognized,1.0 g weißkohl frisch,
+834,bratenfond,800 ml,"{""volumen"": 800, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""fl\u00fcssig""}",0.8,liter,,unrecognized,0.8 g bratenfond,
+836,pimentkörner,7,"{""anzahl"": 7, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Pimentk\u00f6rner""}",7.0,stück,,unrecognized,7.0 g pimentkörner,
+840,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,unrecognized,0.01 g stevia flüssig,
+841,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,unrecognized,1.0 g gelfix  -,
+843,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,unrecognized,0.01 g stevia flüssig,
+844,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,unrecognized,1.0 g gelfix  -,
+852,spirelli,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Spirelli""}",400.0,g,,unrecognized,400.0 g Spirelli,
+889,alaska-seelachsfilet imbackteig,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Seelachsfilet"", ""eigenschaft"": ""im Backteig""}",2.0,stück,,unrecognized,2.0 g alaska-seelachsfilet imbackteig,
+891,küchentuch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchentuch"", ""eigenschaft"": ""St\u00fcck""}",1.0,stück,,unrecognized,1.0 g küchentuch,
+896,sellerieknolle gegart,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Sellerieknolle"", ""eigenschaft"": ""gegart""}",50.0,g,,unrecognized,50.0 g Sellerieknolle,
+898,spitzpaprika rot,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Spitzpaprika"", ""eigenschaft"": ""rot""}",30.0,g,,unrecognized,30.0 g Spitzpaprika,
+900,meersalz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Meersalz""}","{""zutat"": ""Prise"", ""eigenschaft"": ""Meer""}",0.0005,liter,,no_nutrition,0.0005 g meersalz,meersalz
+904,speiseöl,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Speise\u00f6l""}",0.015,liter,,unrecognized,0.015 g speiseöl,
+908,salz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz"", ""eigenschaft"": ""Prise""}",0.0005,liter,,no_nutrition,0.0005 g salz,salz
