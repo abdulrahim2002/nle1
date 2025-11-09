@@ -16,7 +16,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 14,majoran getrocknet,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Majoran"", ""eigenschaft"": ""getrocknet""}",0.005,l
 15,bio hähnchenschlegel,4 stk.,"{""anzahl"": 4, ""einheit"": ""stk.""}","{""zutat"": ""H\u00e4hnchenschlegel"", ""eigenschaft"": ""bio""}",4.0,stk
 16,hähnchen freilandhaltung,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""H\u00e4hnchen"", ""eigenschaft"": ""Freilandhaltung""}",2.0,stk
-17,rapsöl,1 schuss,"{""volumen"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Schuss"", ""eigenschaft"": ""Raps\u00f6l""}",1.0,l
+17,rapsöl,1 schuss,"{""volumen"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Schuss"", ""eigenschaft"": ""Raps\u00f6l""}",0.02,l
 18,zwiebeln grob geschnitten,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""geschnitten""}",2.0,stk
 19,rosenkohl frisch,190 g,"{""gewicht"": 190, ""einheit"": ""g""}","{""zutat"": ""Rosenkohl"", ""eigenschaft"": ""frisch""}",190.0,g
 20,snackkarotten,80 g,"{""gewicht"": 80, ""einheit"": ""g""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""Snack-""}",80.0,g
@@ -69,7 +69,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 67,liebstöckel frischgeschnitten,6 blatt,"{""anzahl"": 6, ""einheit"": ""blatt""}","{""zutat"": ""Liebst\u00f6ckel"", ""eigenschaft"": ""frischgeschnitten""}",6.0,stk
 68,zwiebel  gewürfelt,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",1.0,stk
 69,basilikum,6 blatt,"{""anzahl"": 6, ""einheit"": ""blatt""}","{""zutat"": ""Basilikum"", ""eigenschaft"": ""blatt""}",6.0,stk
-70,crema di balsamico  rot,1 spritzer,"{""anzahl"": 1, ""einheit"": ""spritzer""}","{""zutat"": ""Creme"", ""eigenschaft"": ""rot""}",1.0,stk
+70,crema di balsamico  rot,1 spritzer,"{""anzahl"": 1, ""einheit"": ""spritzer""}","{""zutat"": ""Creme"", ""eigenschaft"": ""rot""}",0.002,l
 71,tomatenpüree,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Tomatenp\u00fcree""}",0.005,l
 72,zitronensaft,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""Zitronensaft""}",0.005,l
 73,rüböl  rapsöl ,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""R\u00fcb\u00f6l""}",0.005,l
@@ -256,7 +256,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 254,baby spinat,70 g,"{""gewicht"": 70, ""einheit"": ""g""}","{""zutat"": ""Spinat"", ""eigenschaft"": ""baby""}",70.0,g
 255,frühlingszwiebel frisch geschnitten,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Fr\u00fchlingszwiebel"", ""eigenschaft"": ""geschnitten""}",2.0,stk
 256,spargelstangen weiß,2 stk.,"{""anzahl"": 2, ""einheit"": ""stk.""}","{""zutat"": ""Spargelstange"", ""eigenschaft"": ""wei\u00df""}",2.0,stk
-257,zitronensaft,1 schuss,"{""volumen"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""Schuss""}",1.0,l
+257,zitronensaft,1 schuss,"{""volumen"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""Schuss""}",0.02,l
 258,zwiebel gewürfelt,0.75 stk.,"{""anzahl"": 0.75, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.75,stk
 259,speck durchwachsen,30 g,"{""gewicht"": 30, ""einheit"": ""g""}","{""zutat"": ""Speck"", ""eigenschaft"": ""durchwachsen""}",30.0,g
 260,putengeschnetzeltes,200 g,"{""gewicht"": 200, ""einheit"": ""g""}","{""zutat"": ""Geschnetzeltes"", ""eigenschaft"": ""Puten-""}",200.0,g
@@ -264,8 +264,8 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 262,senf,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Senf""}",0.005,l
 263,zwiebel gewürfelt,0.25 stk.,"{""anzahl"": 0.25, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.25,stk
 264,salz und pfeffer,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""salz""}","{""zutat"": ""Salz""}",0.0005,l
-265,essig,1 bestecklöffel,"{""volumen"": 1, ""einheit"": ""besteckl\u00f6ffel""}","{""zutat"": ""Essig""}",1.0,l
-266,rapsöl,2 bestecklöffel,"{""anzahl"": 2, ""einheit"": ""besteckl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",2.0,stk
+265,essig,1 bestecklöffel,"{""volumen"": 1, ""einheit"": ""besteckl\u00f6ffel""}","{""zutat"": ""Essig""}",0.01,l
+266,rapsöl,2 bestecklöffel,"{""anzahl"": 2, ""einheit"": ""besteckl\u00f6ffel""}","{""zutat"": ""\u00d6l"", ""eigenschaft"": ""Raps""}",0.02,l
 267,zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Zucker""}","{""zutat"": ""Zucker"", ""eigenschaft"": ""Prise""}",0.0005,l
 268,himbeeren frisch,0.5 päckchen,"{""anzahl"": 0.5, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Himbeere"", ""eigenschaft"": ""frisch""}",0.5,stk
 269,tatar frisch,300 g,"{""gewicht"": 300, ""einheit"": ""g""}","{""zutat"": ""Tatar"", ""eigenschaft"": ""frisch""}",300.0,g
@@ -308,15 +308,15 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 306,tomatenmark dreifachkonzentriert,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Tomatenmark"", ""eigenschaft"": ""dreifachkonzentriert""}",0.015,l
 307,ebly,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Ebly""}",120.0,g
 308,rapsöl,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Raps\u00f6l""}",0.015,l
-309,sojasoße dunkel,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""dunkel""}",1.0,l
+309,sojasoße dunkel,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""So\u00dfe"", ""eigenschaft"": ""dunkel""}",0.02,l
 310,gemüsebrühe,350 ml,"{""volumen"": 350, ""einheit"": ""ml""}","{""zutat"": ""Gem\u00fcsebr\u00fche"", ""eigenschaft"": ""gem\u00fcse""}",0.35000000000000003,l
 311,paprika edelsüß,0.5 teelöffel,"{""anzahl"": 0.5, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Paprika"", ""eigenschaft"": ""edels\u00fc\u00df""}",0.0025,l
 312,topinambur frisch,500 g,"{""gewicht"": 500, ""einheit"": ""g""}","{""zutat"": ""Topinambur"", ""eigenschaft"": ""frisch""}",500.0,g
 313,kartoffeln,350 g,"{""gewicht"": 350, ""einheit"": ""g""}","{""zutat"": ""Kartoffel""}",350.0,g
 314,kleine petersilienwurzel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Petersilienwurzel"", ""eigenschaft"": ""klein""}",1.0,stk
 315,curry,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}","{""zutat"": ""Curry""}",0.01,l
-316,zitronensaft frisch gepresst,1 spritzer,"{""volumen"": ""1"", ""einheit"": ""spritzer""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""gepresst""}",1.0,l
-317,agavensirup,2 tropfen,"{""anzahl"": 2, ""einheit"": ""tropfen""}","{""zutat"": ""Tropfen"", ""eigenschaft"": ""Agavensirup""}",2.0,stk
+316,zitronensaft frisch gepresst,1 spritzer,"{""volumen"": ""1"", ""einheit"": ""spritzer""}","{""zutat"": ""Zitronensaft"", ""eigenschaft"": ""gepresst""}",0.002,l
+317,agavensirup,2 tropfen,"{""anzahl"": 2, ""einheit"": ""tropfen""}","{""zutat"": ""Tropfen"", ""eigenschaft"": ""Agavensirup""}",0.0001,l
 318,gemüsebrühe,750 ml,"{""volumen"": 750, ""einheit"": ""ml""}","{""zutat"": ""Br\u00fche"", ""eigenschaft"": ""gem\u00fcse""}",0.75,l
 319,sojasahne,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}","{""zutat"": ""Sahne"", ""eigenschaft"": ""Sojasahne""}",0.1,l
 320,margarine pflanzlich,1 el,"{""volumen"": 1, ""einheit"": ""el""}","{""zutat"": ""Margarine"", ""eigenschaft"": ""pflanzlich""}",0.015,l
@@ -425,7 +425,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 423,muskatnuss frisch gerieben,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""Muskatnuss""}","{""zutat"": ""Muskatnuss"", ""eigenschaft"": ""gerieben""}",0.0005,l
 424,salz,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}","{""zutat"": ""Salz""}",0.005,l
 425,pfeffer aus der mühleschwarz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}","{""zutat"": ""Pfeffer"", ""eigenschaft"": ""schwarz""}",0.0005,l
-426,milch heiß,1 schuss,"{""anzahl"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Schuss"", ""eigenschaft"": ""hei\u00df""}",1.0,stk
+426,milch heiß,1 schuss,"{""anzahl"": 1, ""einheit"": ""schuss""}","{""zutat"": ""Schuss"", ""eigenschaft"": ""hei\u00df""}",0.02,l
 427,butter,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Butter""}",60.0,g
 428,karotten gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Karotte"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,stk
 429,prinzessbohnen gewürfelt,60 g,"{""gewicht"": 60, ""einheit"": ""g""}","{""zutat"": ""Prinzessbohne"", ""eigenschaft"": ""gew\u00fcrfelt""}",60.0,g
@@ -490,7 +490,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 488,zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""gew\u00fcrfelt""}",0.5,stk
 489,butterschmalz,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Butterschmalz""}",0.015,l
 490,speck durchwachsen,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Speck"", ""eigenschaft"": ""durchwachsen""}",50.0,g
-491,plaumenschnaps,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Pflaumenschnaps""}",2.0,l
+491,plaumenschnaps,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Pflaumenschnaps""}",0.02,l
 492,kondensmilch     fett,0.75 päckchen,"{""anzahl"": 0.75, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Kondensmilch"", ""eigenschaft"": ""fett""}",0.75,stk
 493,emmentaler gerieben,40 g,"{""gewicht"": 40, ""einheit"": ""g""}","{""zutat"": ""Emmentaler"", ""eigenschaft"": ""gerieben""}",40.0,g
 494,teigwaren  allgemein hörnchen,120 g,"{""gewicht"": 120, ""einheit"": ""g""}","{""zutat"": ""Teigware"", ""eigenschaft"": ""H\u00f6rnchen""}",120.0,g
@@ -549,7 +549,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 547,kandisin pulver,10 gramm,"{""gewicht"": 10, ""einheit"": ""gramm""}","{""zutat"": ""Kandisin"", ""eigenschaft"": ""Pulver""}",10.0,g
 548,vanillezucker,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Vanillezucker""}",1.0,stk
 549,eier,3 stück,"{""anzahl"": 3, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Ei"", ""eigenschaft"": ""frisch""}",3.0,stk
-550,zitronensaft,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Zitronensaft""}",2.0,l
+550,zitronensaft,2 cl,"{""volumen"": 2, ""einheit"": ""cl""}","{""zutat"": ""Zitronensaft""}",0.02,l
 551,backpulver,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Backpulver""}",1.0,stk
 552,kochpuddingpulver mitvanillegeschmack,1 päckchen,"{""anzahl"": 1, ""einheit"": ""P\u00e4ckchen""}","{""zutat"": ""Puddingpulver"", ""eigenschaft"": ""Vanille""}",1.0,stk
 553,weizen grieß,4 esslöffel,"{""anzahl"": 4, ""einheit"": ""essl\u00f6ffel""}","{""zutat"": ""Essl\u00f6ffel"", ""eigenschaft"": ""Weizen""}",0.06,l
@@ -868,7 +868,7 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 866,camembert doppelrahmstufe,250 g,"{""gewicht"": 250, ""einheit"": ""g""}","{""zutat"": ""Camembert"", ""eigenschaft"": ""doppelrahm""}",250.0,g
 867,frischkäse doppelrahmstufe,150 g,"{""gewicht"": 150, ""einheit"": ""g""}","{""zutat"": ""Frischk\u00e4se"", ""eigenschaft"": ""Doppelrahmstufe""}",150.0,g
 868,zwiebel,1 kleine,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Zwiebel"", ""eigenschaft"": ""klein""}",1.0,stk
-869,bier,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""Bier"", ""eigenschaft"": ""Schuss""}",1.0,l
+869,bier,1 schuss,"{""volumen"": 1, ""einheit"": ""Schuss""}","{""zutat"": ""Bier"", ""eigenschaft"": ""Schuss""}",0.02,l
 870,butter weich,50 g,"{""gewicht"": 50, ""einheit"": ""g""}","{""zutat"": ""Butter"", ""eigenschaft"": ""weich""}",50.0,g
 871,schwarzwurzel frisch,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Schwarzwurzel"", ""eigenschaft"": ""frisch""}",400.0,g
 872,gemüsefond,800 mg,"{""gewicht"": 800, ""einheit"": ""mg""}","{""zutat"": ""Fond"", ""eigenschaft"": ""gem\u00fcse""}",0.8,g

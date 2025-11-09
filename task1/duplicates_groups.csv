@@ -1,0 +1,70 @@
+ingredient,amount,ingr_annotation,count
+zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""prise"", ""zutat"": ""zucker""}",7
+zwiebel gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}",6
+zwiebel frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",6
+zwiebel,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",6
+salz grob,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}",6
+zwiebel gewürfelt,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}",5
+ei,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",4
+ei,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}",4
+butterschmalz,1 esslöffel,"{""volumen"": 1, ""einheit"": ""essl\u00f6ffel""}",4
+knoblauch frisch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}",4
+rapsöl,4 esslöffel,"{""anzahl"": 4, ""einheit"": ""essl\u00f6ffel""}",3
+hackfleisch gemischt,500 g,"{""gewicht"": 500, ""einheit"": ""g""}",3
+schmand,1 becher,"{""volumen"": 1, ""einheit"": ""becher""}",3
+sahne,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}",3
+wasser gesalzen,1 ½ liter,"{""volumen"": ""1 \u00bd"", ""einheit"": ""liter""}",3
+frischkäse doppelrahmstufe,150 g,"{""gewicht"": 150, ""einheit"": ""g""}",3
+zwiebel,1 kleine,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",3
+zucker,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}",3
+zitrone,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",2
+senf grob mittelscharf,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}",2
+salz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise"", ""zutat"": ""salz""}",2
+salz,10 g,"{""gewicht"": 10, ""einheit"": ""g""}",2
+saure sahne     fett,2 el,"{""volumen"": 2, ""einheit"": ""el""}",2
+zucchini,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}",2
+schmand,50 g,"{""gewicht"": 50, ""einheit"": ""g""}",2
+schnittlauch frisch gehackt,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}",2
+stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}",2
+zitronensaft,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}",2
+tomaten frisch,4 stück,"{""anzahl"": 4, ""einheit"": ""st\u00fcck""}",2
+tomatenmark dreifachkonzentriert,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}",2
+wasser,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}",2
+wasser,100 ml,"{""volumen"": 100, ""einheit"": ""ml""}",2
+zucchini,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",2
+wasser,200 ml,"{""volumen"": 200, ""einheit"": ""ml""}",2
+wasser gesalzen,0.5 liter,"{""volumen"": 0.5, ""einheit"": ""liter""}",2
+weinessig,2 esslöffel,"{""volumen"": 2, ""einheit"": ""essl\u00f6ffel""}",2
+salatgurke,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}",2
+apfel elstar,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}",2
+rüböl  rapsöl ,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}",2
+karotten gewürfelt,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}",2
+butterschmalz,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}",2
+curry,1 teelöffel,"{""volumen"": 1, ""einheit"": ""teel\u00f6ffel""}",2
+curry,2 tl,"{""volumen"": 2, ""einheit"": ""tl""}",2
+ei,1 stück,"{""anzahl"": 1, ""einheit"": ""st\u00fcck""}",2
+eier,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}",2
+eier,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}",2
+endivien frisch,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}",2
+feta,200 g,"{""gewicht"": 200, ""einheit"": ""g""}",2
+fleischbrühe,1 liter,"{""volumen"": 1, ""einheit"": ""liter""}",2
+gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}",2
+gemüsebrühe,120 ml,"{""volumen"": 120, ""einheit"": ""ml""}",2
+ingwer,1 stck,"{""anzahl"": 1, ""einheit"": ""stck""}",2
+karotte,0.5 stk.,"{""anzahl"": 0.5, ""einheit"": ""stk.""}",2
+knoblauch,1 zehe,"{""anzahl"": 1, ""einheit"": ""Zehe""}",2
+rotkohl frisch,0.25 kopf,"{""anzahl"": 0.25, ""einheit"": ""kopf""}",2
+kräuter der provence,1 tl,"{""volumen"": 1, ""einheit"": ""tl""}",2
+mehl,1 teelöffel,"{""anzahl"": 1, ""einheit"": ""teel\u00f6ffel""}",2
+mehl,2 el,"{""volumen"": 2, ""einheit"": ""el""}",2
+olivenöl extra vergine,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}",2
+olivenöl extra vergine,3 el,"{""volumen"": 3, ""einheit"": ""el""}",2
+orange,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}",2
+paprika rot,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}",2
+parmesan gerieben,1 esslöffel,"{""volumen"": ""1"", ""einheit"": ""essl\u00f6ffel""}",2
+peperoni,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}",2
+pfeffer aus der mühleschwarz,1 prise,"{""anzahl"": 1, ""einheit"": ""Prise""}",2
+radieschen frisch,3 stk.,"{""anzahl"": 3, ""einheit"": ""stk.""}",2
+rapsöl,2 esslöffel,"{""anzahl"": 2, ""einheit"": ""essl\u00f6ffel""}",2
+rapsöl,4 tl,"{""volumen"": 4, ""einheit"": ""tl""}",2
+äpfel,2,"{""anzahl"": 2, ""einheit"": ""St\u00fcck""}",2

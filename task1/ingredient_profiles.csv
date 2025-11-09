@@ -1,0 +1,304 @@
+ingredient,n_rows,n_amount_unique,ann_key_counts,ann_unit_counts,norm_unit_counts
+alge,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+amarettini,1,1,{'anzahl': 1},{'esslöffel': 1},{'l': 1}
+ananas,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+ananassaft,1,1,{'volumen': 1},{'liter': 1},{'l': 1}
+apfel,6,4,{'anzahl': 6},"{'stück': 4, 'stk': 2}",{'stk': 6}
+apfelmus,1,1,{'gewicht': 1},{'gramm': 1},{'g': 1}
+austernpilz,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+backpulver,3,3,"{'anzahl': 2, 'volumen': 1}","{'pck': 1, 'päckchen': 1, 'tl': 1}","{'stk': 2, 'l': 1}"
+bacon,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+barsch,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+basilikum,4,4,"{'anzahl': 3, 'volumen': 1}","{'blatt': 1, 'bund': 1, 'el': 1, 'teelöffel': 1}","{'l': 2, 'stk': 2}"
+basilikumblatt,1,1,{'anzahl': 1},{'hand voll': 1},{'stk': 1}
+bauergurke,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+becher,1,1,{'volumen': 1},{'becher': 1},{'l': 1}
+bier,3,3,{'volumen': 3},"{'el': 1, 'ml': 1, 'schuss': 1}",{'l': 3}
+bisquit,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+blatt,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+blumenkohl,3,3,{'anzahl': 3},"{'kopf': 1, 'stk': 1, 'stück': 1}",{'stk': 3}
+blätterteig,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'mal': 1}","{'g': 1, 'stk': 1}"
+bohne,2,2,"{'anzahl': 1, 'gewicht': 1}","{'el': 1, 'g': 1}","{'g': 1, 'l': 1}"
+bohnenkraut,1,1,{'anzahl': 1},{'teelöffel': 1},{'l': 1}
+bratenfond,2,2,{'volumen': 2},{'ml': 2},{'l': 2}
+bratwurst,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+bratwurstbrät,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+brokkoli,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+brötchen,2,2,{'anzahl': 2},{'stück': 2},{'stk': 2}
+brühe,3,3,{'volumen': 3},"{'liter': 2, 'ml': 1}",{'l': 3}
+buschbohne,1,1,{'anzahl': 1},{'voll': 1},{'stk': 1}
+butter,9,9,"{'volumen': 5, 'gewicht': 3, 'anzahl': 1}","{'g': 3, 'tl': 2, 'el': 1, 'esslöffel': 1, 'klecks': 1, 'teelöffel': 1}","{'l': 5, 'g': 3, 'stk': 1}"
+butterschmalz,8,4,"{'volumen': 6, 'anzahl': 2}","{'esslöffel': 6, 'el': 2}",{'l': 8}
+bärlauch,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+camembert,4,4,"{'anzahl': 2, 'gewicht': 2}","{'g': 2, 'päckchen': 1, 'stück': 1}","{'g': 2, 'stk': 2}"
+cayenne,1,1,{'anzahl': 1},{'prise': 1},{'l': 1}
+champignon,3,3,"{'anzahl': 2, 'gewicht': 1}","{'stk': 2, 'g': 1}","{'stk': 2, 'g': 1}"
+chicoree,2,2,{'anzahl': 2},{'stk': 2},{'stk': 2}
+chicorée,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'stk': 1}","{'g': 1, 'stk': 1}"
+chili,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+chilipulver,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+chilisauce,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+chilischote,2,1,{'anzahl': 2},{'stk': 2},{'stk': 2}
+chilisoße,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+cocktailtomate,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+couscous,2,2,"{'anzahl': 1, 'gewicht': 1}","{'beutel': 1, 'g': 1}","{'g': 1, 'stk': 1}"
+creme,2,2,"{'anzahl': 1, 'volumen': 1}","{'spritzer': 1, 'tl': 1}",{'l': 2}
+crème fraîche,1,1,{'volumen': 1},{'becher': 1},{'l': 1}
+curry,4,2,{'volumen': 4},"{'teelöffel': 2, 'tl': 2}",{'l': 4}
+currypaste,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+datteltomate,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+dill,2,2,{'anzahl': 2},"{'bund': 1, 'stiel': 1}",{'stk': 2}
+dinkelmehl,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+dinkelvollkornmehl,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+dose,1,1,{'anzahl': 1},{'dosen': 1},{'stk': 1}
+ebly,3,3,{'gewicht': 3},{'g': 3},{'g': 3}
+edamer,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+ei,23,10,"{'anzahl': 22, 'gewicht': 1}","{'stück': 16, 'stk': 6, 'gr': 1}","{'stk': 22, 'g': 1}"
+eigelb,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+einweckglas,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+eisbergsalat,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+eiswürfel,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+emmentaler,3,3,{'gewicht': 3},"{'g': 2, 'gr': 1}",{'g': 3}
+endivie,3,2,{'anzahl': 3},"{'stk': 2, 'stück': 1}",{'stk': 3}
+erbe,1,1,{'volumen': 1},{'tasse': 1},{'l': 1}
+erdbeere,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+essig,16,10,"{'volumen': 15, 'anzahl': 1}","{'esslöffel': 8, 'el': 5, 'bestecklöffel': 1, 'liter': 1, 'tl': 1}",{'l': 16}
+essiggurke,2,2,{'anzahl': 2},{'stück': 2},{'stk': 2}
+esslöffel,2,2,"{'anzahl': 1, 'volumen': 1}",{'esslöffel': 2},{'l': 2}
+estragon,1,1,{'anzahl': 1},{'teelöffel': 1},{'l': 1}
+farfalle,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+feldsalat,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+fenchel,3,3,"{'anzahl': 2, 'gewicht': 1}","{'g': 1, 'knolle': 1, 'stk': 1}","{'stk': 2, 'g': 1}"
+fenchelsame,1,1,{'anzahl': 1},{'prise': 1},{'l': 1}
+feta,5,4,{'gewicht': 5},"{'g': 4, 'gr': 1}",{'g': 5}
+fischfilet,1,1,{'gewicht': 1},{'gramm': 1},{'g': 1}
+fischfrikadelle,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+fischsoße,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+fleischbrühe,1,1,{'volumen': 1},{'liter': 1},{'l': 1}
+fleischkäse,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+fond,2,2,"{'gewicht': 1, 'volumen': 1}","{'mg': 1, 'ml': 1}","{'g': 1, 'l': 1}"
+frischkäse,6,3,{'gewicht': 6},{'g': 6},{'g': 6}
+fruchtsaft,1,1,{'volumen': 1},{'ml': 1},{'l': 1}
+frühlingszwiebel,6,4,"{'anzahl': 5, 'gewicht': 1}","{'stk': 3, 'stück': 2, 'g': 1}","{'stk': 5, 'g': 1}"
+garnele,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'päckchen': 1}","{'g': 1, 'stk': 1}"
+gelfix,2,1,{'anzahl': 2},{'pack': 2},{'stk': 2}
+gelierzucker,3,3,"{'gewicht': 2, 'volumen': 1}","{'g': 2, 'el': 1}","{'g': 2, 'l': 1}"
+gemüsebrühe,10,9,"{'volumen': 9, 'gewicht': 1}","{'ml': 8, 'g': 1, 'tassen': 1}","{'l': 9, 'g': 1}"
+gemüsefond,1,1,{'volumen': 1},{'l': 1},{'l': 1}
+gemüsegurke,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+geschnetzeltes,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+gewürzmischung,1,1,{'anzahl': 1},{'tl': 1},{'l': 1}
+glasnudel,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+gorgonzola,2,2,{'gewicht': 2},{'g': 2},{'g': 2}
+gouda,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+grapefruit,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+grieß,2,2,{'gewicht': 2},{'g': 2},{'g': 2}
+grünkern,1,1,{'anzahl': 1},{'päckchen': 1},{'stk': 1}
+gurke,3,3,"{'anzahl': 2, 'gewicht': 1}","{'g': 1, 'stk': 1, 'stück': 1}","{'stk': 2, 'g': 1}"
+hack,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+hackfleisch,6,3,{'gewicht': 6},{'g': 6},{'g': 6}
+haferflocke,2,2,"{'gewicht': 1, 'volumen': 1}","{'el': 1, 'gr': 1}","{'g': 1, 'l': 1}"
+hefe,3,3,{'anzahl': 3},"{'päckchen': 1, 'stück': 1, 'würfel': 1}",{'stk': 3}
+heidelbeere,1,1,{'anzahl': 1},{'päckchen': 1},{'stk': 1}
+himbeere,1,1,{'anzahl': 1},{'päckchen': 1},{'stk': 1}
+hirscheflocke,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+honig,2,2,"{'anzahl': 1, 'volumen': 1}","{'esslöffel': 1, 'teelöffel': 1}",{'l': 2}
+hähnchen,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+hähnchenbrust,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+hähnchenschlegel,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+hühnerbrust,2,2,{'anzahl': 2},"{'scheiben': 1, 'stück': 1}",{'stk': 2}
+ingwer,4,3,{'anzahl': 4},"{'stck': 2, 'stk': 1, 'stück': 1}",{'stk': 4}
+joghurt,3,3,"{'gewicht': 2, 'volumen': 1}","{'g': 2, 'el': 1}","{'g': 2, 'l': 1}"
+johannisbeere,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+johannisbrotkernmehl,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+jostabeere,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+kabeljaufilet,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+kalbfleisch,1,1,{'anzahl': 1},{'stck': 1},{'stk': 1}
+kandisin,1,1,{'gewicht': 1},{'gramm': 1},{'g': 1}
+kaper,2,2,"{'anzahl': 1, 'gewicht': 1}","{'dose': 1, 'gr': 1}","{'g': 1, 'stk': 1}"
+karotte,17,11,"{'anzahl': 12, 'gewicht': 5}","{'stk': 12, 'g': 5}","{'stk': 12, 'g': 5}"
+kartoffel,6,5,"{'anzahl': 4, 'gewicht': 2}","{'stk': 4, 'g': 2}","{'stk': 4, 'g': 2}"
+kerbel,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+kern,3,2,"{'volumen': 2, 'anzahl': 1}","{'el': 2, 'esslöffel': 1}",{'l': 3}
+kichererbse,1,1,{'anzahl': 1},{'dose': 1},{'stk': 1}
+kirsche,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+knoblauch,3,3,{'anzahl': 3},"{'stk': 1, 'zehe': 1, 'zehen': 1}",{'stk': 3}
+knoblauchzehe,7,5,{'anzahl': 7},"{'stück': 3, 'stk': 2, 'zehe': 1, 'zehen': 1}",{'stk': 7}
+kohlrabi,3,3,"{'gewicht': 2, 'anzahl': 1}","{'g': 2, 'stk': 1}","{'g': 2, 'stk': 1}"
+kokosmilch,1,1,{'volumen': 1},{'ml': 1},{'l': 1}
+kondensmilch,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'päckchen': 1}","{'g': 1, 'stk': 1}"
+kopfsalat,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+koriander,1,1,{'anzahl': 1},{'prise': 1},{'l': 1}
+kraut,2,2,{'volumen': 2},{'el': 2},{'l': 2}
+kreuzkümmel,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+kräuter,2,1,{'volumen': 2},{'tl': 2},{'l': 2}
+kumquat,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+kurkuma,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+käse,7,7,"{'anzahl': 3, 'gewicht': 2, 'volumen': 2}","{'el': 2, 'g': 2, 'scheiben': 2, 'stücke': 1}","{'stk': 3, 'g': 2, 'l': 2}"
+küchenmaschine,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+küchentuch,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+kürbis,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+lachsfilet,1,1,{'gewicht': 1},{'gramm': 1},{'g': 1}
+lauch,5,5,"{'gewicht': 3, 'anzahl': 2}","{'g': 3, 'stange': 2}","{'g': 3, 'stk': 2}"
+lauchzwiebel,2,2,{'anzahl': 2},{'bund': 2},{'stk': 2}
+leberwurst,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+liebstöckel,4,4,"{'anzahl': 3, 'gewicht': 1}","{'blatt': 1, 'g': 1, 'stk': 1, 'zweige': 1}","{'stk': 3, 'g': 1}"
+limette,1,1,{'anzahl': 1},{'limette': 1},{'stk': 1}
+linse,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+liter,1,1,{'volumen': 1},{'liter': 1},{'l': 1}
+lorbeerblatt,3,3,{'anzahl': 3},{'stück': 3},{'stk': 3}
+lotte,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+maiskeimöl,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+maiskörner,1,1,{'anzahl': 1},{'el': 1},{'l': 1}
+majoran,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+mango,2,2,{'anzahl': 2},{'stück': 2},{'stk': 2}
+mangoldblatt,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+margarine,2,2,"{'anzahl': 1, 'volumen': 1}","{'el': 1, 'stk': 1}","{'l': 1, 'stk': 1}"
+mascarpone,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+meerrettich,1,1,{'anzahl': 1},{'tl': 1},{'l': 1}
+mehl,9,7,"{'anzahl': 4, 'gewicht': 3, 'volumen': 2}","{'el': 3, 'g': 3, 'teelöffel': 2, 'esslöffel': 1}","{'l': 6, 'g': 3}"
+milch,8,7,"{'volumen': 7, 'anzahl': 1}","{'ml': 5, 'el': 1, 'esslöffel': 1, 'liter': 1}",{'l': 8}
+milchreis,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+minze,3,2,{'volumen': 3},"{'esslöffel': 2, 'el': 1}",{'l': 3}
+misopaste,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+mohrrübe,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+mozzarella,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'päckchen': 1}","{'g': 1, 'stk': 1}"
+muskatnuss,5,3,"{'anzahl': 4, 'gewicht': 1}","{'prise': 4, 'g': 1}","{'l': 4, 'g': 1}"
+möhre,5,5,"{'gewicht': 4, 'anzahl': 1}","{'g': 3, 'gramm': 1, 'stk': 1}","{'g': 4, 'stk': 1}"
+münzblatt,1,1,{'anzahl': 1},{'hand': 1},{'stk': 1}
+nudel,3,3,{'gewicht': 3},{'g': 3},{'g': 3}
+olive,4,4,"{'anzahl': 3, 'gewicht': 1}","{'dose': 1, 'g': 1, 'stk': 1, 'stück': 1}","{'stk': 3, 'g': 1}"
+orange,5,3,{'anzahl': 5},"{'stk': 3, 'stück': 2}",{'stk': 5}
+orangensaft,1,1,{'anzahl': 1},{'frucht': 1},{'stk': 1}
+oregano,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+panko,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+pankomehl,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+paprika,18,14,"{'anzahl': 15, 'volumen': 2, 'gewicht': 1}","{'stück': 9, 'stk': 4, 'teelöffel': 2, 'el': 1, 'g': 1, 'tl': 1}","{'stk': 13, 'l': 4, 'g': 1}"
+paprikapaste,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+paprikaschote,4,4,{'anzahl': 4},{'stück': 4},{'stk': 4}
+parmesan,5,4,"{'gewicht': 2, 'volumen': 2, 'anzahl': 1}","{'esslöffel': 3, 'g': 2}","{'l': 3, 'g': 2}"
+peperoni,2,1,{'anzahl': 2},{'stück': 2},{'stk': 2}
+petersilie,6,5,"{'anzahl': 3, 'volumen': 3}","{'esslöffel': 2, 'bund': 1, 'stiel': 1, 'tl': 1, 'zweig': 1}","{'l': 3, 'stk': 3}"
+petersilienwurzel,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+pfeffer,11,4,"{'anzahl': 9, 'gewicht': 2}","{'prise': 9, 'g': 2}","{'l': 9, 'g': 2}"
+pfefferkorn,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+pflaumenschnaps,1,1,{'volumen': 1},{'cl': 1},{'l': 1}
+pilz,3,2,{'gewicht': 3},{'g': 3},{'g': 3}
+piment,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+pimentkörner,2,2,{'anzahl': 2},{'stück': 2},{'stk': 2}
+pinienkern,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+pistazie,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+porree,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+preiselbeere,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+prinzessbohne,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+prise,1,1,{'anzahl': 1},{'prise': 1},{'l': 1}
+puddingpulver,1,1,{'anzahl': 1},{'päckchen': 1},{'stk': 1}
+putenbrust,2,2,{'gewicht': 2},{'g': 2},{'g': 2}
+quark,5,5,"{'gewicht': 4, 'anzahl': 1}","{'g': 4, 'esslöffel': 1}","{'g': 4, 'l': 1}"
+quinoa,3,3,"{'volumen': 2, 'gewicht': 1}","{'tasse': 2, 'g': 1}","{'l': 2, 'g': 1}"
+radieschen,6,4,{'anzahl': 6},"{'stk': 5, 'stück': 1}",{'stk': 6}
+rapsöl,2,1,{'volumen': 2},{'esslöffel': 2},{'l': 2}
+reibekäse,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+reis,3,3,"{'volumen': 2, 'gewicht': 1}","{'tasse': 2, 'g': 1}","{'l': 2, 'g': 1}"
+rettich,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+rhabarber,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'stangen': 1}","{'g': 1, 'stk': 1}"
+ricotta,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+riesling,1,1,{'volumen': 1},{'ml': 1},{'l': 1}
+rinderfilet,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+rinderfond,2,2,{'volumen': 2},"{'el': 1, 'ml': 1}",{'l': 2}
+rinderhack,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+romanesco,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+rosenkohl,3,3,{'gewicht': 3},"{'g': 2, 'kg': 1}",{'g': 3}
+rote bete,2,2,{'anzahl': 2},{'stk': 2},{'stk': 2}
+rotkohl,2,1,{'anzahl': 2},{'kopf': 2},{'stk': 2}
+rucola,6,6,"{'anzahl': 3, 'gewicht': 3}","{'g': 3, 'bd': 1, 'bund': 1, 'bündel': 1}","{'g': 3, 'stk': 3}"
+safran,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+sahne,16,10,"{'volumen': 13, 'anzahl': 2, 'gewicht': 1}","{'ml': 10, 'el': 2, 'päckchen': 2, 'becher': 1, 'g': 1}","{'l': 13, 'stk': 2, 'g': 1}"
+salami,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+salatgurke,2,1,{'anzahl': 2},{'stück': 2},{'stk': 2}
+salsa-sauce,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+salz,24,10,"{'anzahl': 18, 'gewicht': 3, 'volumen': 3}","{'teelöffel': 9, 'prise': 8, 'g': 3, 'tl': 2, 'el': 1, 'msp': 1}","{'l': 21, 'g': 3}"
+sardelle,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+sauerrahm,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+schafkäse,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+schalotte,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+scheibe,6,4,{'anzahl': 6},"{'scheibe': 4, 'scheiben': 2}",{'stk': 6}
+schinken,7,6,"{'gewicht': 5, 'anzahl': 2}","{'g': 5, 'scheiben': 1, 'stück': 1}","{'g': 5, 'stk': 2}"
+schinkenwürfel,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+schirmchen,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+schlotte,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+schmand,8,5,"{'volumen': 5, 'gewicht': 2, 'anzahl': 1}","{'becher': 4, 'g': 2, 'el': 1, 'esslöffel': 1}","{'l': 6, 'g': 2}"
+schnittlauch,5,3,"{'anzahl': 4, 'volumen': 1}","{'esslöffel': 3, 'bund': 2}","{'l': 3, 'stk': 2}"
+schnitzel,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+schokoriegel,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+schuss,2,1,"{'anzahl': 1, 'volumen': 1}",{'schuss': 2},{'l': 2}
+schwarzwurzel,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+schüssel,1,1,{'anzahl': 1},{'schüssel': 1},{'stk': 1}
+seelachsfilet,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+sellerie,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+sellerieknolle,2,1,{'gewicht': 2},{'g': 2},{'g': 2}
+selleriestange,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+semmelbrösel,3,3,"{'volumen': 2, 'anzahl': 1}","{'el': 2, 'stk': 1}","{'l': 2, 'stk': 1}"
+senf,8,5,"{'volumen': 6, 'anzahl': 2}","{'teelöffel': 4, 'tl': 2, 'el': 1, 'esslöffel': 1}",{'l': 8}
+sesam,2,2,"{'anzahl': 1, 'volumen': 1}","{'esslöffel': 1, 'hand': 1}","{'l': 1, 'stk': 1}"
+sesamöl,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+sirup,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+sobanudel,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+sojasauce,3,2,{'volumen': 3},"{'el': 2, 'ml': 1}",{'l': 3}
+sonnenblumenkern,5,5,"{'volumen': 3, 'anzahl': 1, 'gewicht': 1}","{'el': 2, 'esslöffel': 2, 'g': 1}","{'l': 4, 'g': 1}"
+soße,2,2,{'volumen': 2},"{'el': 1, 'schuss': 1}",{'l': 2}
+spaghetti,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+spargel,5,4,"{'gewicht': 4, 'volumen': 1}","{'g': 2, 'gramm': 2, 'glas': 1}","{'g': 4, 'l': 1}"
+spargelstange,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+speck,4,4,{'gewicht': 4},{'g': 4},{'g': 4}
+speisestärke,4,4,"{'gewicht': 2, 'volumen': 2}","{'el': 2, 'g': 2}","{'g': 2, 'l': 2}"
+speiseöl,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+spieß,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+spinat,6,5,"{'gewicht': 4, 'anzahl': 2}","{'g': 4, 'pck': 1, 'tasse': 1}","{'g': 4, 'l': 1, 'stk': 1}"
+spirelli,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+spitzpaprika,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'stück': 1}","{'g': 1, 'stk': 1}"
+staudensellerie,4,4,"{'anzahl': 2, 'gewicht': 2}","{'g': 2, 'stk': 1, 'stück': 1}","{'g': 2, 'stk': 2}"
+stevia,3,2,{'volumen': 3},{'ml': 3},{'l': 3}
+stängel,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+suppengrün,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+suppenhuhn,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+suppennudel,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+tasse,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+tatar,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+teelöffel,7,6,"{'anzahl': 6, 'volumen': 1}",{'teelöffel': 7},{'l': 7}
+teigware,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+thymian,1,1,{'volumen': 1},{'tl': 1},{'l': 1}
+thymianzweig,1,1,{'anzahl': 1},{'zweig': 1},{'stk': 1}
+toastbrot,2,2,{'anzahl': 2},{'scheiben': 2},{'stk': 2}
+tomate,17,14,"{'anzahl': 14, 'gewicht': 3}","{'stück': 7, 'stk': 4, 'g': 3, 'dose': 2, 'schüssel': 1}","{'stk': 14, 'g': 3}"
+tomatenmark,8,6,"{'volumen': 7, 'gewicht': 1}","{'el': 3, 'esslöffel': 2, 'tl': 2, 'g': 1}","{'l': 7, 'g': 1}"
+tomatenpüree,2,2,{'volumen': 2},"{'el': 1, 'tl': 1}",{'l': 2}
+topfen,2,2,{'gewicht': 2},"{'g': 1, 'kg': 1}",{'g': 2}
+topinambur,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'stk': 1}","{'g': 1, 'stk': 1}"
+traube,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+traubenzucker,1,1,{'volumen': 1},{'el': 1},{'l': 1}
+tropfen,1,1,{'anzahl': 1},{'tropfen': 1},{'l': 1}
+vanille,1,1,{'anzahl': 1},{'prise': 1},{'l': 1}
+vanilleschote,1,1,{'anzahl': 1},{'stk': 1},{'stk': 1}
+vanillezucker,2,2,"{'anzahl': 1, 'gewicht': 1}","{'g': 1, 'päckchen': 1}","{'g': 1, 'stk': 1}"
+walnuss,3,3,"{'anzahl': 1, 'gewicht': 1, 'volumen': 1}","{'el': 1, 'esslöffel': 1, 'g': 1}","{'l': 2, 'g': 1}"
+wasser,28,15,{'volumen': 28},"{'ml': 15, 'liter': 12, 'el': 1}",{'l': 28}
+wassermelone,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+wein,1,1,{'volumen': 1},{'ml': 1},{'l': 1}
+weiskraut,1,1,{'anzahl': 1},{'kopf': 1},{'stk': 1}
+weizenmehl,1,1,{'gewicht': 1},{'gr': 1},{'g': 1}
+weißkohl,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+wurzelgemüse,1,1,{'gewicht': 1},{'gramm': 1},{'g': 1}
+xylit,1,1,{'gewicht': 1},{'g': 1},{'g': 1}
+zehe,8,2,{'anzahl': 8},"{'zehe': 6, 'zehen': 2}",{'stk': 8}
+ziehenfrischkäse,1,1,{'anzahl': 1},{'mal': 1},{'stk': 1}
+zimt,1,1,{'anzahl': 1},{'prise': 1},{'l': 1}
+zimtrinde,1,1,{'anzahl': 1},{'msp': 1},{'l': 1}
+zitrone,9,7,{'anzahl': 9},"{'stück': 8, 'stk': 1}",{'stk': 9}
+zitronensaft,9,8,{'volumen': 9},"{'el': 2, 'esslöffel': 2, 'cl': 1, 'ml': 1, 'schuss': 1, 'spritzer': 1, 'tl': 1}",{'l': 9}
+zucchini,14,10,"{'anzahl': 10, 'gewicht': 4}","{'stk': 5, 'g': 4, 'stück': 4, 'scheibe': 1}","{'stk': 10, 'g': 4}"
+zucchinischeibe,1,1,{'anzahl': 1},{'stück': 1},{'stk': 1}
+zucker,21,9,"{'anzahl': 13, 'volumen': 8}","{'prise': 12, 'el': 2, 'esslöffel': 2, 'teelöffel': 2, 'tl': 2, 'päckchen': 1}","{'l': 20, 'stk': 1}"
+zweig,2,2,{'anzahl': 2},"{'zweig': 1, 'zweige': 1}",{'stk': 2}
+zwiebel,53,18,"{'anzahl': 49, 'gewicht': 4}","{'stück': 25, 'stk': 24, 'g': 3, 'kg': 1}","{'stk': 49, 'g': 4}"
+öl,33,15,"{'volumen': 22, 'anzahl': 10, 'gewicht': 1}","{'el': 12, 'esslöffel': 10, 'tl': 8, 'bestecklöffel': 1, 'g': 1, 'ml': 1}","{'l': 32, 'g': 1}"

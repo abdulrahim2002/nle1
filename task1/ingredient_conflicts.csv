@@ -1,0 +1,65 @@
+ingredient,norm_unit_counts,majority_unit,majority_share,n_rows
+käse,"{'stk': 3, 'g': 2, 'l': 2}",stk,0.429,7
+petersilie,"{'l': 3, 'stk': 3}",stk,0.5,6
+rucola,"{'g': 3, 'stk': 3}",g,0.5,6
+basilikum,"{'l': 2, 'stk': 2}",stk,0.5,4
+camembert,"{'g': 2, 'stk': 2}",stk,0.5,4
+speisestärke,"{'g': 2, 'l': 2}",l,0.5,4
+staudensellerie,"{'g': 2, 'stk': 2}",g,0.5,4
+blätterteig,"{'g': 1, 'stk': 1}",g,0.5,2
+bohne,"{'g': 1, 'l': 1}",g,0.5,2
+chicorée,"{'g': 1, 'stk': 1}",g,0.5,2
+couscous,"{'g': 1, 'stk': 1}",g,0.5,2
+fond,"{'g': 1, 'l': 1}",l,0.5,2
+garnele,"{'g': 1, 'stk': 1}",g,0.5,2
+haferflocke,"{'g': 1, 'l': 1}",l,0.5,2
+kaper,"{'g': 1, 'stk': 1}",stk,0.5,2
+kondensmilch,"{'g': 1, 'stk': 1}",stk,0.5,2
+margarine,"{'l': 1, 'stk': 1}",stk,0.5,2
+mozzarella,"{'g': 1, 'stk': 1}",stk,0.5,2
+rhabarber,"{'g': 1, 'stk': 1}",g,0.5,2
+sesam,"{'l': 1, 'stk': 1}",l,0.5,2
+spitzpaprika,"{'g': 1, 'stk': 1}",stk,0.5,2
+topinambur,"{'g': 1, 'stk': 1}",g,0.5,2
+vanillezucker,"{'g': 1, 'stk': 1}",g,0.5,2
+butter,"{'l': 5, 'g': 3, 'stk': 1}",l,0.556,9
+lauch,"{'g': 3, 'stk': 2}",g,0.6,5
+parmesan,"{'l': 3, 'g': 2}",l,0.6,5
+schnittlauch,"{'l': 3, 'stk': 2}",l,0.6,5
+mehl,"{'l': 6, 'g': 3}",l,0.667,9
+kartoffel,"{'stk': 4, 'g': 2}",stk,0.667,6
+spinat,"{'g': 4, 'l': 1, 'stk': 1}",g,0.667,6
+backpulver,"{'stk': 2, 'l': 1}",stk,0.667,3
+champignon,"{'stk': 2, 'g': 1}",stk,0.667,3
+fenchel,"{'stk': 2, 'g': 1}",stk,0.667,3
+gelierzucker,"{'g': 2, 'l': 1}",g,0.667,3
+gurke,"{'stk': 2, 'g': 1}",stk,0.667,3
+joghurt,"{'g': 2, 'l': 1}",g,0.667,3
+kohlrabi,"{'g': 2, 'stk': 1}",g,0.667,3
+quinoa,"{'l': 2, 'g': 1}",l,0.667,3
+reis,"{'l': 2, 'g': 1}",l,0.667,3
+semmelbrösel,"{'l': 2, 'stk': 1}",l,0.667,3
+walnuss,"{'l': 2, 'g': 1}",l,0.667,3
+karotte,"{'stk': 12, 'g': 5}",stk,0.706,17
+zucchini,"{'stk': 10, 'g': 4}",stk,0.714,14
+schinken,"{'g': 5, 'stk': 2}",g,0.714,7
+paprika,"{'stk': 13, 'l': 4, 'g': 1}",stk,0.722,18
+schmand,"{'l': 6, 'g': 2}",l,0.75,8
+liebstöckel,"{'stk': 3, 'g': 1}",stk,0.75,4
+olive,"{'stk': 3, 'g': 1}",stk,0.75,4
+muskatnuss,"{'l': 4, 'g': 1}",l,0.8,5
+möhre,"{'g': 4, 'stk': 1}",g,0.8,5
+quark,"{'g': 4, 'l': 1}",g,0.8,5
+sonnenblumenkern,"{'l': 4, 'g': 1}",l,0.8,5
+spargel,"{'g': 4, 'l': 1}",g,0.8,5
+sahne,"{'l': 13, 'stk': 2, 'g': 1}",l,0.812,16
+pfeffer,"{'l': 9, 'g': 2}",l,0.818,11
+tomate,"{'stk': 14, 'g': 3}",stk,0.824,17
+frühlingszwiebel,"{'stk': 5, 'g': 1}",stk,0.833,6
+salz,"{'l': 21, 'g': 3}",l,0.875,24
+tomatenmark,"{'l': 7, 'g': 1}",l,0.875,8
+gemüsebrühe,"{'l': 9, 'g': 1}",l,0.9,10
+zwiebel,"{'stk': 49, 'g': 4}",stk,0.925,53
+zucker,"{'l': 20, 'stk': 1}",l,0.952,21
+ei,"{'stk': 22, 'g': 1}",stk,0.957,23
+öl,"{'l': 32, 'g': 1}",l,0.97,33
