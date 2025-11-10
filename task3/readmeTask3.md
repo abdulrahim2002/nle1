@@ -1,7 +1,9 @@
 ### Task 3: Improving Prompts
 
 In the following, you find the currently used prompts to process raw
-data (see columns *amount* and *ingredient*) with an LLM (llama3.3:70b):
+data (see columns *amount* and *ingredient*) with an LLM (llama3.3:70b)
+
+> Please kindly find our solution explanation for this task down below at **Processing Flow Overview** 
 
 #### For Ingredient Extraction
 
@@ -63,3 +65,32 @@ For this task, you can access the Ollama Server on
 `hcai.uni-regenburg.de` and use the `llama3` model.  Python code for
 accessing the API is provided on GRIPS.
 
+### **Processing Flow Overview** 
+
+The full workflow for extracting and enriching nutritional data proceeds in multiple refinement stages using "task3.ipynb" for LLM processing and "testing.ipynb" for API testing:
+
+1. **LLM-Based Ingredient Normalization – Prompt 1**
+
+   * Input: `failed_extracts_initial.csv`
+   * Processed using **Prompt 1**  
+   * Output: `gemma_annotated_prompt1.csv`
+
+2. **Re-Evaluation of Prompt 1 Results**
+
+   * The annotated ingredients from `gemma_annotated_prompt1.csv` are tested again via the UR Nährwertrechner API.
+   * Output:
+
+     *  Remaining errors are saved as `failed_extracts_1.csv`
+
+3. **LLM-Based Quantity & Unit Refinement – Prompt 2**
+
+   * Input: `failed_extracts_1.csv`
+   * Processed using **Prompt 2** 
+   * Output: `gemma_annotated_prompt2.csv`
+
+4. **Final Nutrition Extraction Attempt**
+
+   * The LLM-refined dataset `gemma_annotated_prompt2.csv` is reprocessed through the API.
+   * Output:
+
+     *  Remaining unresolved rows saved as `failed_extracts_final.csv`
