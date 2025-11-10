@@ -21,13 +21,10 @@ If characteristics such as color, condition, processing, quality, or origin are 
 **Input:** `garnelen frisch groß`
 **Output:**
 
-```
 {
 "zutat": "Garnele",
 "eigenschaft": ["frisch", "groß"]
 }
-```
-
 
 Now identify the ingredients in this text: `{ingr}`
 ```
