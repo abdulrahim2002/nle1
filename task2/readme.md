@@ -1,5 +1,7 @@
 # Task 2: Calculating Nutritive Values — Approach
 
+> This explanation only applies to `task2_second_approach.ipynb`
+
 Use the **UR Nährwertrechner** API:
 
 ```
