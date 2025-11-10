@@ -1,7 +1,7 @@
 ### Task 3: Improving Prompts
 
 In the following, you find the currently used prompts to process raw
-data (see columns *amount* and *ingredient*) with an LLM:
+data (see columns *amount* and *ingredient*) with an LLM (llama3.3:70b):
 
 #### For Ingredient Extraction
 
