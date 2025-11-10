@@ -46,8 +46,8 @@ Body: {"recipe": "<amount> <unit> <ingredient>"}
 * Show progress with **tqdm**.
 * Write two CSVs:
 
-  * **`nutrition_found.csv`** — successful rows (`status == "ok"`), includes `nutrition` (full API JSON), `prompt_used`, `recognized_name`.
-  * **`nutrition_failed.csv`** — all other rows, includes `status`, `prompt_used`, optional `recognized_name`.
+  * **`nutri_found_2ndApproach.csv`** — successful rows (`status == "ok"`), includes `nutrition` (full API JSON), `prompt_used`, `recognized_name`.
+  * **`nutri_failed_2ndApproach.csv`** — all other rows, includes `status`, `prompt_used`, optional `recognized_name`.
 
 ### Example JSONL log entry
 
