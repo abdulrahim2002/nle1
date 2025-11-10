@@ -42,9 +42,9 @@ Unnamed: 0,ingredient,amount,ingr_annotation,amount_annotation,norm_value,norm_u
 833,weißkohl frisch,1,"{""anzahl"": 1, ""einheit"": ""St\u00fcck""}","{""zutat"": ""Wei\u00dfkohl"", ""eigenschaft"": ""frisch""}",1.0,stück,,weißkohl
 834,bratenfond,800 ml,"{""volumen"": 800, ""einheit"": ""ml""}","{""zutat"": ""Bratenfond"", ""eigenschaft"": ""fl\u00fcssig""}",0.8,liter,,bratenfond
 840,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,stevia
-841,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,gelfix
+841,"gelfix  - ",1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,gelfix
 843,stevia flüssig,10 ml,"{""volumen"": 10, ""einheit"": ""ml""}","{""zutat"": ""Stevia"", ""eigenschaft"": ""fl\u00fcssig""}",0.01,liter,,stevia
-844,gelfix  - ,1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,gelfix
+844,"gelfix  - ",1 pack,"{""anzahl"": 1, ""einheit"": ""pack""}","{""zutat"": ""Gelfix""}",1.0,stück,,gelfix
 852,spirelli,400 g,"{""gewicht"": 400, ""einheit"": ""g""}","{""zutat"": ""Spirelli""}",400.0,g,,spirelli
 889,alaska-seelachsfilet imbackteig,2 stück,"{""anzahl"": 2, ""einheit"": ""st\u00fcck""}","{""zutat"": ""Seelachsfilet"", ""eigenschaft"": ""im Backteig""}",2.0,stück,,seelachsfilet
 891,küchentuch,1 stk.,"{""anzahl"": 1, ""einheit"": ""stk.""}","{""zutat"": ""K\u00fcchentuch"", ""eigenschaft"": ""St\u00fcck""}",1.0,stück,,küchentuch
